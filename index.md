@@ -20,7 +20,7 @@ layout: default
                     <li>A few days</li>
                     <li>A few minds</li>
                     <li>A clickable prototype (you can always build one yourself)</li>
-                  </ul                                  
+                  </ul>
 
                 </div>
 						  </div>
