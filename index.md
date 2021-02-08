@@ -6,9 +6,10 @@ layout: default
               <div class="nsw-row nsw-m-bottom-sm">
 						    <div class="nsw-col">
 
-                              <h1 id="validate-and-improve-an-idea-thats-already-being-built">Validate (and improve) an idea that’s already being built</h1>
+                              <h1>Research with momentum </h1>
 
-                <p>“If you’ve got an early prototype, this is a fast way to understand how it’s useful to people. Make sure you approach them with a smile!”</p>
+                <p>Quick and easy-to follow recipes for moving projects forwards.</p>
+                <p>Short on time, resources or stakeholder support? Discover new ways to do research that helps you learn and progress quickly and easily. </p>
 
                 </div>
 						  </div>
@@ -17,9 +18,9 @@ layout: default
                 <div class="nsw-col nsw-col--quarter"><div class="nsw-card ">
                     <div class="nsw-card__content">
                         <h2 class="nsw-card__title">
-                          <a href="#" class="nsw-card__link">Ut placet inquam tum dicere exorsus est laborum et inter</a>
+                          <a href="mid-build/" class="nsw-card__link">Validate (and improve) an idea that’s already being built</a>
                         </h2>
-                        <p class="nsw-card__copy">Sunt autem quibusdam et voluptatem ut ita ruant itaque earum motus et expe</p>
+                        <p class="nsw-card__copy">A fast way to understand how useful your prototype is to people</p>
                         <svg class="nsw-icon nsw-card__icon" focusable="false" aria-hidden="true">
                           <use xlink:href="#arrow"></use>
                         </svg>
