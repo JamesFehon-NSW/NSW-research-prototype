@@ -1,0 +1,123 @@
+
+
+<!doctype html>
+<html lang="en" class="no-js">
+<head>
+  <base href="http://docs.nsw.digital/">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if site.browserTitle %}{{site.browserTitle}}{% else %}{% if page.breadcrumb %}{{ page.breadcrumb }} |{% endif %}{{site.title}} | NSW Government{% endif %}</title>
+  <meta name="robots" content="noindex" />
+  <meta name="description" content="">
+  <meta name="keywords" content="">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <link rel="icon" href="{{ site.baseurl }}/assets/favicon.ico">
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/main.css">
+  <link href="https://fonts.googleapis.com/css?family=Montserrat:400,600&display=swap" rel="stylesheet">
+  <script>
+    // SVG Sprite Loader
+    var svgAjax = new XMLHttpRequest();
+    svgAjax.open("GET", "../../assets/svg/sprite.svg", true);
+    svgAjax.send();
+    svgAjax.onload = function(e) {
+      var fragment = document.createRange().createContextualFragment(svgAjax.responseText);
+      var svg = fragment.querySelector('svg')
+      svg.setAttribute('aria-hidden', true);
+      svg.style.cssText = 'position: absolute; width: 0; height: 0; overflow: hidden;'
+      document.body.insertBefore(fragment, document.body.childNodes[0]);
+    };
+    // Replace 'no-js' with 'js' on the html tag
+    (function(e){e.className=e.className.replace(/\bno-js\b/,'js')})(document.documentElement);
+  </script>
+</head>
+
+<body >
+
+<div class="nsw-masthead">
+  <div class="nsw-container">
+    <p>A NSW Government website</p>
+  </div>
+</div>
+<header class="nsw-header nsw-header--simple">
+  <div class="nsw-header__container">
+    <div class="nsw-header__wrapper">
+      <div class="nsw-header__center">
+        <a href="#" class="nsw-header__logo-link">
+          <img class="site-logo" src="https://www.digital.nsw.gov.au//themes/custom/corporateplus/nsw-digitalnsw-combined.svg?v=20191114111300" alt="digital.nsw">
+          <span class="sr-only">{{ site.title }}</span>
+        </a>
+      </div>
+    </div>
+</header>
+
+<main>
+  <div class="nsw-section--white">
+    <div class="nsw-container">
+      <div class="nsw-page-layout">
+        <div class="nsw-page-layout__main">
+        	<div class="nsw-wysiwyg-content">
+						<div class="nsw-grid">
+						  <div class="nsw-row nsw-m-bottom-sm">
+						    <div class="nsw-col">
+								<h1>De-risk your project after the direction is set</h1>
+                <p>We use this process when a new idea comes up in a meeting, but we want to make sure we're not just excited because it's new!</p>
+                <p>&laquo;author&raquo;</p>
+                <p>
+                  <div style="height:120px;width:100%;background:lightgrey;"></div>
+						    </div>
+						  </div>
+
+						  <div class="nsw-row">
+						    <div class="nsw-col nsw-col-md-9">
+									<h2>Plan</h2>
+									<p>
+
+<p>review the project and answer the question (this will only work if...
+
+<p>eg this will only work if ...users are comfortable providing employment details
+
+<p>Rank them from most to least risky. Start with the most risky and work out who the users are and what you need to ask them.
+
+<h2>Do</h2>
+
+<p>(Rich to include an activity here)
+
+<p>If your service is new, use an equivalent idea that people are already familiar with.
+
+<h2>Advance</h2>
+
+<p>With the confidence that your riskiest assumption has been disproven, you can start your delivery by focusing on those aspects of the project.
+</p>
+							    </div>
+							    <div class="nsw-col nsw-col-md-3">
+									<h2>Templates</h2>
+									<ul>
+										<li><a class="navigation-nav-item" href="styles/grid/index.html" target="_blank">Grid</a></li>
+										<li><a class="navigation-nav-item" href="styles/iconography/index.html" target="_blank">Iconography</a></li>
+										<li><a class="navigation-nav-item" href="styles/layout/index.html" target="_blank">Layout</a></li>
+
+									</ul>
+						    </div>
+						  </div>
+              <div class="nsw-row">
+						    <div class="nsw-col nsw-col-md-9">
+                  <div style="background:lightgrey;"><h2 style="padding: 20px;text-align:center;">You have delivered (Outcome)!</h2></div>
+                </div>
+              </div>
+
+
+
+						</div>
+
+            {{ content }}
+
+					</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</main>
+  <script src="{{ site.baseurl }}/assets/js/main.js"></script>
+  <script>window.NSW.initSite()</script>
+</body>
+</html>
