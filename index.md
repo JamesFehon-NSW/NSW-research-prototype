@@ -7,18 +7,18 @@ layout: default
 
 
 
-##You’ll need
+## You’ll need
 
 * A few days
 * A few minds
 * A clickable prototype (you can always build one yourself)
 
-##Plan
+## Plan
 Draw up a script and scenario to test with users
 
 Write and memorise a short script that explains who you are, what you’re testing and what you need from the person completing the test (including how long). You can use this template to get started.  
 
-##Learn
+## Learn
 
 Hit the streets and put your idea in the hands of users
 
@@ -30,7 +30,7 @@ Take note of the key learnings after each session, and once you have 3-5 quality
 
 
 
-##Act
+## Act
 
 Turn your key learnings into proposed improvements
 
@@ -43,8 +43,8 @@ Prepare a simple slide deck for your leader featuring
 * your key learnings  
 * your proposed improvements.   
 
-##Outcome
+## Outcome
 
 A range of potential improvements for your product or service
 
-##Community comment
+## Community comment
