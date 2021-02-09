@@ -8,7 +8,7 @@ layout: default
                               <h1 id="validate-and-improve-an-idea-thats-already-being-built">Validate a problem without slowing down the project </h1>
 
                               <blockquote>
-                      								  “We always use provocative prototyping to test out our leaders hypothesis – you are building and learning at the same time!”   
+                      								  “We always use provocative prototyping to test out our leaders hypothesis – you are building and learning at the same time!”
                       								  <cite>Name of digital colleague</cite>
                       				</blockquote>
 
@@ -20,9 +20,9 @@ layout: default
                   <h2 id="youll-need">You’ll need</h2>
 
                   <ul>
-                    <li>A few hours</li>
-                    <li>A few minds</li>
-                    <li>A <a href="">clickable prototype</a> (you can always build one yourself)</li>
+                    <li>A few days</li>
+                    <li>Yourself</li>
+                    <li>An unvalidated problem (or three) </li>
                   </ul>
 
                 </div>
@@ -31,39 +31,27 @@ layout: default
 						  <div class="nsw-row">
                   <div class="nsw-col nsw-col-md-9">
                   <h2 id="plan">Plan</h2>
-                  <h3>Draw up a script and scenario to test with users</h3>
-
-                  <p>Write and memorise a short script that explains who you are, what you’re testing and what you need from the person completing the test (including how long). You can <a href="">use this template</a> to get started.</p>
-
+                  <h3>Develop quick concepts that solve different problems  </h3>
+									<p> </p>
                   <h2 id="learn">Learn</h2>
 
-                  <h3>Hit the streets and put your idea in the hands of users</h3>
+                  <h3>Put your ideas in front of potential users and hear their thoughts </h3>
 
-                  <p>Head to a public location that you think your users are likely to be in and politely approach people with your product and script.</p>
+									<p> </p>
 
-                  <p>Ask them to use your prototype and explain their decisions as they go.</p>
-
-                  <p>Take note of the key learnings after each session, and once you have 3-5 quality responses, you can head back to the office to draw out your conclusions.</p>
 
                   <h2 id="act">Act</h2>
 
-                  <h3>Turn your key learnings into proposed improvements</h3>
+                  <h3>Turn the feedback into opportunities for the project </h3>
 
-                  <p>Using your conclusions, come up with improvements with your product.</p>
-
-                  <p>Prepare a <a href="">simple slide deck</a> for your leader featuring</p>
-                  <ul>
-                    <li>your approach to testing,</li>
-                    <li>your key learnings</li>
-                    <li>your proposed improvements.</li>
-                  </ul>
+									<p> </p>
 
 							    </div>
 							    <div class="nsw-col nsw-col-md-3">
 									<h2>Templates</h2>
 									<ul>
-										<li><a class="navigation-nav-item" href="#" target="_blank">User testing script</a></li>
-										<li><a class="navigation-nav-item" href="#" target="_blank">Findings slide deck example</a></li>
+										<li><a class="navigation-nav-item" href="#" target="_blank">Concept template + example </a></li>
+										<li><a class="navigation-nav-item" href="#" target="_blank">Sample discussion guide </a></li>
 
 									</ul>
 						    </div>
@@ -72,11 +60,11 @@ layout: default
 						    <div class="nsw-col nsw-col-md-9">
                   <div style="background:lightgrey;">
                   <h2 style="padding: 20px;text-align:center;">Outcome</h2>
-                    <p>A range of potential improvements for your product or service</p>
+                    <p>A validated problem with a clear direction forward </p>
                   </div>
 
                   <h2 id="community-comment">Community comment</h2>
-                  <p>Stuck? Ask the community </p>
+                  <p>We found this recipe works well in one day if you can plan ahead a bit.   </p>
                 </div>
               </div>
 
