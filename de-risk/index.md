@@ -5,10 +5,10 @@ layout: default
 						  <div class="nsw-row nsw-m-bottom-sm">
 						    <div class="nsw-col">
 
-                              <h1 id="validate-and-improve-an-idea-thats-already-being-built">Validate (and improve) an idea that’s already being built</h1>
+                              <h1 id="validate-and-improve-an-idea-thats-already-being-built">De-risk a project before building commences </h1>
 
                               <blockquote>
-                      								  “If you’ve got an early prototype, this is a fast way to understand how it’s useful to people. Make sure you approach them with a smile!”
+                      								  “This is surprisingly simple for anyone to do, and out leader was very receptive to our findings.”
                       								  <cite>Name of digital colleague</cite>
                       				</blockquote>
 
@@ -20,9 +20,8 @@ layout: default
                   <h2 id="youll-need">You’ll need</h2>
 
                   <ul>
-                    <li>A few hours</li>
-                    <li>A few minds</li>
-                    <li>A <a href="">clickable prototype</a> (you can always build one yourself)</li>
+                    <li>About a week</li>
+                    <li>A few people</li>
                   </ul>
 
                 </div>
