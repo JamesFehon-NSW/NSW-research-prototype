@@ -72,7 +72,7 @@ layout: default
 						    <div class="nsw-col nsw-col-md-9">
                   <div style="background:lightgrey;">
                   <h2 style="padding: 20px;text-align:center;">Outcome</h2>
-                    <p>A range of potential improvements for your product or service</p>
+                    <p style="padding: 20px;">A range of potential improvements for your product or service</p>
                   </div>
 
                 </div>
