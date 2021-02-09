@@ -76,7 +76,7 @@ layout: default
                   </div>
 
                   <h2 id="community-comment">Community comment</h2>
-
+                  <p>Stuck? Ask the community </p>
                 </div>
               </div>
 
