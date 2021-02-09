@@ -5,7 +5,7 @@ layout: default
 						  <div class="nsw-row nsw-m-bottom-sm">
 						    <div class="nsw-col">
 
-                              <h1 id="validate-and-improve-an-idea-thats-already-being-built">Validate (and improve) an idea that’s already being built</h1>
+                              <h1 id="validate-and-improve-an-idea-thats-already-being-built">Improve an idea that’s already being built </h1>
 
                               <blockquote>
                       								  “If you’ve got an early prototype, this is a fast way to understand how it’s useful to people. Make sure you approach them with a smile!”
