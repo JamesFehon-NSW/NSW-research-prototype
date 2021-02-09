@@ -31,9 +31,10 @@ layout: default
                 <div class="nsw-col nsw-col-md-4"><div class="nsw-card ">
                     <div class="nsw-card__content">
                         <h2 class="nsw-card__title">
-                          <a href="mid-build/" class="nsw-card__link">Validate (and improve) an idea that’s already being built</a>
+                          <a href="de-risk/" class="nsw-card__link">De-risk a project before building commences </a>
                         </h2>
-                        <p class="nsw-card__copy">A fast way to understand how useful your prototype is to people</p>
+                        <p class="nsw-card__copy">
+                        </p>
                         <svg class="nsw-icon nsw-card__icon" focusable="false" aria-hidden="true">
                           <use xlink:href="#arrow"></use>
                         </svg>
@@ -45,7 +46,7 @@ layout: default
                 <div class="nsw-col nsw-col-md-4"><div class="nsw-card ">
                     <div class="nsw-card__content">
                         <h2 class="nsw-card__title">
-                          <a href="mid-build/" class="nsw-card__link">Validate (and improve) an idea that’s already being built</a>
+                          <a href="mid-build/" class="nsw-card__link">Improve an idea that’s already being built</a>
                         </h2>
                         <p class="nsw-card__copy">A fast way to understand how useful your prototype is to people</p>
                         <svg class="nsw-icon nsw-card__icon" focusable="false" aria-hidden="true">
@@ -59,9 +60,9 @@ layout: default
                 <div class="nsw-col nsw-col-md-4"><div class="nsw-card ">
                     <div class="nsw-card__content">
                         <h2 class="nsw-card__title">
-                          <a href="mid-build/" class="nsw-card__link">Validate (and improve) an idea that’s already being built</a>
+                          <a href="validate/" class="nsw-card__link">Validate a problem without slowing down the project </a>
                         </h2>
-                        <p class="nsw-card__copy">A fast way to understand how useful your prototype is to people</p>
+                        <p class="nsw-card__copy">Build your way forwards whilst you keep on learning</p>
                         <svg class="nsw-icon nsw-card__icon" focusable="false" aria-hidden="true">
                           <use xlink:href="#arrow"></use>
                         </svg>
