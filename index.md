@@ -8,7 +8,7 @@ layout: default
 
                               <h1>Research with momentum </h1>
 
-                <p>Quick and easy-to follow recipes for moving projects forwards.</p>
+                <p class="nsw-intro">Quick and easy-to follow recipes for moving projects forwards.</p>
                 </div>
 						  </div>
               <div class="nsw-row nsw-m-bottom-sm">
