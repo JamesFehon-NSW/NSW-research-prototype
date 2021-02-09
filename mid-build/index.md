@@ -33,7 +33,7 @@ layout: default
                   <h2 id="plan">Plan</h2>
                   <p>Draw up a script and scenario to test with users</p>
 
-                  <p>Write and memorise a short script that explains who you are, what you’re testing and what you need from the person completing the test (including how long). You can use this template to get started.</p>
+                  <p>Write and memorise a short script that explains who you are, what you’re testing and what you need from the person completing the test (including how long). You can <a href="">use this template</a> to get started.</p>
 
                   <h2 id="learn">Learn</h2>
 
@@ -62,9 +62,8 @@ layout: default
 							    <div class="nsw-col nsw-col-md-3">
 									<h2>Templates</h2>
 									<ul>
-										<li><a class="navigation-nav-item" href="styles/grid/index.html" target="_blank">Grid</a></li>
-										<li><a class="navigation-nav-item" href="styles/iconography/index.html" target="_blank">Iconography</a></li>
-										<li><a class="navigation-nav-item" href="styles/layout/index.html" target="_blank">Layout</a></li>
+										<li><a class="navigation-nav-item" href="#" target="_blank">User testing script</a></li>
+										<li><a class="navigation-nav-item" href="#" target="_blank">Findings slide deck example</a></li>
 
 									</ul>
 						    </div>
