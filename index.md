@@ -21,9 +21,9 @@ layout: default
                 <h2>How it works </h2>
                 <p>Each recipe follows a simple 3-stage process: </p>
                 <ul>
-                  <li>Plan: Organising the objectives and logistics of your work </li>
-                  <li>Learn: Doing the actual research and working out what it means for your project </li>
-                  <li>Act: Using your learnings to move the project forwards</li>
+                  <li><strong>Plan:</strong> Organising the objectives and logistics of your work </li>
+                  <li><strong>Learn:</strong> Doing the actual research and working out what it means for your project </li>
+                  <li><strong>Act:</strong> Using your learnings to move the project forwards</li>
                 </ul>
 
                 </div>
