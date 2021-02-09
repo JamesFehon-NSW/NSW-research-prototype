@@ -12,12 +12,12 @@ layout: default
                 </div>
 						  </div>
               <div class="nsw-row nsw-m-bottom-sm">
-						    <div class="nsw-col nsw-col-md-7" style="background:lightgrey;">
+						    <div class="nsw-col nsw-col-md-7">
                 <h2>Short on time, resources or stakeholder support? </h2>
                 <p>Discover new ways to do research that helps you learn and progress quickly and easily. </p>
 
                 </div>
-                <div class="nsw-col nsw-col-md-5">
+                <div class="nsw-col nsw-col-md-5"  style="background:WhiteSmoke;">
                 <h2>How it works </h2>
                 <p>Each recipe follows a simple 3-stage process: </p>
                 <ul>
