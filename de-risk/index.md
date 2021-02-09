@@ -61,8 +61,7 @@ layout: default
                     <p>A list of de-risked assumptions (and a focal area for any more work) </p>
                   </div>
 
-                  <h2 id="community-comment">Community comment</h2>
-                  <p>“We have put together a list of forums and groups to help us work faster. Feel free to use!”  </p>
+
                 </div>
               </div>
 

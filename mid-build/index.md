@@ -75,8 +75,6 @@ layout: default
                     <p>A range of potential improvements for your product or service</p>
                   </div>
 
-                  <h2 id="community-comment">Community comment</h2>
-                  <p>Stuck? Ask the community </p>
                 </div>
               </div>
 

@@ -63,8 +63,7 @@ layout: default
                     <p>A validated problem with a clear direction forward </p>
                   </div>
 
-                  <h2 id="community-comment">Community comment</h2>
-                  <p>We found this recipe works well in one day if you can plan ahead a bit.   </p>
+
                 </div>
               </div>
 
