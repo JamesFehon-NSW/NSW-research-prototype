@@ -22,7 +22,7 @@ layout: default
                   <ul>
                     <li>A few days</li>
                     <li>A few minds</li>
-                    <li>A clickable prototype (you can always build one yourself)</li>
+                    <li>A <a href="">clickable prototype</a> (you can always build one yourself)</li>
                   </ul>
 
                 </div>
@@ -31,13 +31,13 @@ layout: default
 						  <div class="nsw-row">
                   <div class="nsw-col nsw-col-md-9">
                   <h2 id="plan">Plan</h2>
-                  <p>Draw up a script and scenario to test with users</p>
+                  <h3>Draw up a script and scenario to test with users</h3>
 
                   <p>Write and memorise a short script that explains who you are, what you’re testing and what you need from the person completing the test (including how long). You can <a href="">use this template</a> to get started.</p>
 
                   <h2 id="learn">Learn</h2>
 
-                  <p>Hit the streets and put your idea in the hands of users</p>
+                  <h3>Hit the streets and put your idea in the hands of users</h3>
 
                   <p>Head to a public location that you think your users are likely to be in and politely approach people with your product and script.</p>
 
@@ -47,11 +47,11 @@ layout: default
 
                   <h2 id="act">Act</h2>
 
-                  <p>Turn your key learnings into proposed improvements</p>
+                  <h3>Turn your key learnings into proposed improvements</h3>
 
                   <p>Using your conclusions, come up with improvements with your product.</p>
 
-                  <p>Prepare a simple slide deck for your leader featuring</p>
+                  <p>Prepare a <a href="">simple slide deck</a> for your leader featuring</p>
                   <ul>
                     <li>your approach to testing,</li>
                     <li>your key learnings</li>
