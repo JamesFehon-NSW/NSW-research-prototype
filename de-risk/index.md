@@ -30,39 +30,26 @@ layout: default
 						  <div class="nsw-row">
                   <div class="nsw-col nsw-col-md-9">
                   <h2 id="plan">Plan</h2>
-                  <h3>Draw up a script and scenario to test with users</h3>
-
-                  <p>Write and memorise a short script that explains who you are, what you’re testing and what you need from the person completing the test (including how long). You can <a href="">use this template</a> to get started.</p>
-
+                  <h3>This is surprisingly simple for anyone to do, and out leader was very receptive to our findings.  </h3>
+ <p> </p>
                   <h2 id="learn">Learn</h2>
 
-                  <h3>Hit the streets and put your idea in the hands of users</h3>
+                  <h3>Dive deep into the forums and find evidence to match your assumptions  </h3>
 
-                  <p>Head to a public location that you think your users are likely to be in and politely approach people with your product and script.</p>
+                  <p> </p>
 
-                  <p>Ask them to use your prototype and explain their decisions as they go.</p>
-
-                  <p>Take note of the key learnings after each session, and once you have 3-5 quality responses, you can head back to the office to draw out your conclusions.</p>
 
                   <h2 id="act">Act</h2>
 
-                  <h3>Turn your key learnings into proposed improvements</h3>
+                  <h3>Fill out the risk template and add your confidence for each group  </h3>
 
-                  <p>Using your conclusions, come up with improvements with your product.</p>
-
-                  <p>Prepare a <a href="">simple slide deck</a> for your leader featuring</p>
-                  <ul>
-                    <li>your approach to testing,</li>
-                    <li>your key learnings</li>
-                    <li>your proposed improvements.</li>
-                  </ul>
+                  <p> </p>
 
 							    </div>
 							    <div class="nsw-col nsw-col-md-3">
 									<h2>Templates</h2>
 									<ul>
-										<li><a class="navigation-nav-item" href="#" target="_blank">User testing script</a></li>
-										<li><a class="navigation-nav-item" href="#" target="_blank">Findings slide deck example</a></li>
+										<li><a class="navigation-nav-item" href="#" target="_blank">Risk register</a></li>
 
 									</ul>
 						    </div>
@@ -71,11 +58,11 @@ layout: default
 						    <div class="nsw-col nsw-col-md-9">
                   <div style="background:lightgrey;">
                   <h2 style="padding: 20px;text-align:center;">Outcome</h2>
-                    <p>A range of potential improvements for your product or service</p>
+                    <p>A list of de-risked assumptions (and a focal area for any more work) </p>
                   </div>
 
                   <h2 id="community-comment">Community comment</h2>
-                  <p>Stuck? Ask the community </p>
+                  <p>“We have put together a list of forums and groups to help us work faster. Feel free to use!”  </p>
                 </div>
               </div>
 
