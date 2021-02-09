@@ -20,7 +20,7 @@ layout: default
                   <h2 id="youll-need">You’ll need</h2>
 
                   <ul>
-                    <li>A few days</li>
+                    <li>A few hours</li>
                     <li>A few minds</li>
                     <li>A <a href="">clickable prototype</a> (you can always build one yourself)</li>
                   </ul>
