@@ -53,7 +53,7 @@ layout: default
                         </svg>
                     </div>
                     <div class="nsw-card__image-area">
-                        <img src="https://picsum.photos/id/1/400/200" alt="" class="nsw-card__image">
+                        <img src="https://picsum.photos/id/20/400/200" alt="" class="nsw-card__image">
                     </div>
                 </div></div>
                 <div class="nsw-col nsw-col-md-4"><div class="nsw-card ">
@@ -67,7 +67,7 @@ layout: default
                         </svg>
                     </div>
                     <div class="nsw-card__image-area">
-                        <img src="https://picsum.photos/id/1/400/200" alt="" class="nsw-card__image">
+                        <img src="https://picsum.photos/id/160/400/200" alt="" class="nsw-card__image">
                     </div>
                 </div></div>
               </div>

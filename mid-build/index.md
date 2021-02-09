@@ -7,7 +7,10 @@ layout: default
 
                               <h1 id="validate-and-improve-an-idea-thats-already-being-built">Validate (and improve) an idea that’s already being built</h1>
 
-                <p>“If you’ve got an early prototype, this is a fast way to understand how it’s useful to people. Make sure you approach them with a smile!”</p>
+                              <blockquote>
+                      								  “If you’ve got an early prototype, this is a fast way to understand how it’s useful to people. Make sure you approach them with a smile!”
+                      								  <cite>Name of digital colleague</cite>
+                      				</blockquote>
 
 
                   <div style="height:120px;width:100%;background:lightgrey;"></div>
