@@ -13,7 +13,7 @@ layout: default
 						  </div>
               <div class="nsw-row nsw-m-bottom-sm">
 						    <div class="nsw-col nsw-col-md-8">
-                <p><strong>Short on time, resources or stakeholder support? </strong>
+                <p><strong>Short on time, resources or stakeholder support? </strong></p>
                 <p>Discover new ways to do research that helps you learn and progress quickly and easily. </p>
 
                 </div>
