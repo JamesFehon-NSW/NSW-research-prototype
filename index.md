@@ -34,8 +34,7 @@ layout: default
                         <h2 class="nsw-card__title">
                           <a href="de-risk/" class="nsw-card__link">De-risk a project before building commences </a>
                         </h2>
-                        <p class="nsw-card__copy">
-                        </p>
+                        <p class="nsw-card__copy">A simple practice to uncover user insights without the need to recruit </p>
                         <svg class="nsw-icon nsw-card__icon" focusable="false" aria-hidden="true">
                           <use xlink:href="#arrow"></use>
                         </svg>
