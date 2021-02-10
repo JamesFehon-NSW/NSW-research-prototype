@@ -6,7 +6,7 @@ layout: default
               <div class="nsw-row nsw-m-bottom-sm">
 						    <div class="nsw-col">
 
-                              <h1>Research with momentum </h1>
+                              <h1>Recipes for progress</h1>
 
                 <p class="nsw-intro">Quick and easy-to follow recipes for moving projects forwards.</p>
                 </div>
