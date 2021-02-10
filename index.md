@@ -8,13 +8,13 @@ layout: default
 
                               <h1>Recipes for progress</h1>
 
-                <p class="nsw-intro">Quick and easy-to follow recipes for moving projects forwards.</p>
+                <p class="nsw-intro">Quick and easy-to-follow recipes for progressing projects and winning support.</p>
                 </div>
 						  </div>
               <div class="nsw-row nsw-m-bottom-sm">
 						    <div class="nsw-col nsw-col-md-7">
-                <h2>Short on time, resources or stakeholder support? </h2>
-                <p>Discover new ways to do research that helps you learn and progress quickly and easily. </p>
+                <h2>Short on time, resources or stakeholder support?</h2>
+                <p><em>Recipes for progress</em> are research-based activities that deliver momentum for stakeholders whilst making sure you’re solving the right problem in the right way.</p>
 
                 </div>
                 <div class="nsw-col nsw-col-md-5"  style="background:WhiteSmoke;">
