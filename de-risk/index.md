@@ -30,7 +30,7 @@ layout: default
 						  <div class="nsw-row">
                   <div class="nsw-col nsw-col-md-9">
                   <h2 id="plan">Plan</h2>
-                  <h3>This is surprisingly simple for anyone to do, and out leader was very receptive to our findings.  </h3>
+                  <h3>Get your team together and finish the sentence “this will only work if…” </h3>
 									<p>Lorem ipsum dolor sit amet, ad vocent ornatus cum. Per vidit omnesque ne, cu eam vide propriae, idque malis postulant duo te. Esse mentitum omnesque ea has, ut est vocent omittantur. Ipsum saepe ius id, case summo legendos eos cu. Mea ne nemore instructior. Nec id vitae epicuri, sonet urbanitas eu mel.</p>
 
                   <h2 id="learn">Learn</h2>
@@ -59,7 +59,7 @@ layout: default
 						    <div class="nsw-col nsw-col-md-9">
                   <div style="background:lightgrey;">
                   <h2 style="padding-top: 20px;text-align:center;">Outcome</h2>
-                    <p style="padding: 20px;" >A list of de-risked assumptions (and a focal area for any more work) </p>
+                    <p  class="nsw-intro" style="padding: 20px;" >A list of de-risked assumptions (and a focal area for any more work) </p>
                   </div>
 
 
