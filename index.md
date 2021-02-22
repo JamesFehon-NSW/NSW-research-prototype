@@ -25,7 +25,7 @@ layout: default
                 </ul>
 
                 </div>
-                <div class="nsw-col nsw-col-md-5"  style="background:WhiteSmoke;">
+                <div class="nsw-col nsw-col-md-5">
                   <div class="nsw-callout">
                     <div class="nsw-callout__content">
                     <h4 class="nsw-callout__title">Workshop details</h4>
