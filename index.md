@@ -9,7 +9,7 @@ layout: default
                 </div>
 						  </div>
               <div class="nsw-row nsw-m-bottom-sm">
-						    <div class="nsw-col nsw-col-md-7">
+						    <div class="nsw-col nsw-col-md-8">
 
                 <p class="nsw-intro">Learn how to apply proven human centred design techniques and methods to accelerate your project delivery. </p>
                 <p>Run by the NSW Design Service team, you’ll get the tools and resources to solve your challenge and deliver better solutions for your customers and sponsors.</p>
@@ -23,7 +23,7 @@ layout: default
                 </ul>
 
                 </div>
-                <div class="nsw-col nsw-col-md-5">
+                <div class="nsw-col nsw-col-md-4">
                   <div class="nsw-callout">
                     <div class="nsw-callout__content">
                     <h4 class="nsw-callout__title">Workshop details</h4>
