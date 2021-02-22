@@ -42,9 +42,9 @@ layout: default
                             <div class="nsw-card ">
                                 <div class="nsw-card__content">
                                     <h2 class="nsw-card__title">
-                                      <a href="#" class="nsw-card__link">Energy save</a>
+                                      <a href="#" class="nsw-card__link">De-risk your project before building commences</a>
                                     </h2>
-                                    <p class="nsw-card__copy">Helps you compare electricity and gas and switch providers.</p>
+                                    <p class="nsw-card__copy">Use customer insights to inform decision decisions about your solution, to save you time and cost.</p>
                                     <svg class="nsw-icon nsw-card__icon" focusable="false" aria-hidden="true">
                                       <use xlink:href="#arrow"></use>
                                     </svg>
@@ -55,9 +55,9 @@ layout: default
                             <div class="nsw-card ">
                                 <div class="nsw-card__content">
                                     <h2 class="nsw-card__title">
-                                      <a href="#" class="nsw-card__link">Family rebate</a>
+                                      <a href="#" class="nsw-card__link">Validate an idea to get the most out of your investment</a>
                                     </h2>
-                                    <p class="nsw-card__copy">Helps families with dependants to pay their energy bills. Applications opening late July for the 2019-20 rebate.</p>
+                                    <p class="nsw-card__copy">Get your solution into customers’ hands fast to improve their experience.</p>
                                     <svg class="nsw-icon nsw-card__icon" focusable="false" aria-hidden="true">
                                       <use xlink:href="#arrow"></use>
                                     </svg>
@@ -68,9 +68,22 @@ layout: default
                             <div class="nsw-card ">
                                 <div class="nsw-card__content">
                                     <h2 class="nsw-card__title">
-                                      <a href="#" class="nsw-card__link">Appliance save</a>
+                                      <a href="#" class="nsw-card__link">User customer insights to fast track delivery</a>
                                     </h2>
-                                    <p class="nsw-card__copy">Concession card holders may be able to save on a new fridge or television.</p>
+                                    <p class="nsw-card__copy">Make smart decisions before you build, so you’re maximising return on investment.</p>
+                                    <svg class="nsw-icon nsw-card__icon" focusable="false" aria-hidden="true">
+                                      <use xlink:href="#arrow"></use>
+                                    </svg>
+                                </div>
+                            </div>
+                          </div>
+                          <div class="nsw-col nsw-col-md-4">
+                            <div class="nsw-card ">
+                                <div class="nsw-card__content">
+                                    <h2 class="nsw-card__title">
+                                      <a href="#" class="nsw-card__link">Deliver on an idea quickly while meeting business and customer needs</a>
+                                    </h2>
+                                    <p class="nsw-card__copy">Align business and customer needs with your solution so you can build with confidence.</p>
                                     <svg class="nsw-icon nsw-card__icon" focusable="false" aria-hidden="true">
                                       <use xlink:href="#arrow"></use>
                                     </svg>
