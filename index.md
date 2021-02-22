@@ -5,7 +5,7 @@ layout: default
 <div class="nsw-grid">
               <div class="nsw-row nsw-m-bottom-sm">
 						    <div class="nsw-col">
-
+                      <h1>Recipes for progress</h1>
                 </div>
 						  </div>
               <div class="nsw-row nsw-m-bottom-sm">
@@ -18,7 +18,11 @@ layout: default
 
                 <h2>What you'll get</h2>
 
-                <p><em>Recipes for progress</em> are research-based activities that deliver momentum for stakeholders whilst making sure you’re solving the right problem in the right way.</p>
+                <ul>
+                  <li>Adptable research plan</li>
+                  <li>Reusable templates and resources </li>
+                  <li>Validated tools and templates to present your findings.</li>
+                </ul>
 
                 </div>
                 <div class="nsw-col nsw-col-md-5"  style="background:WhiteSmoke;">
@@ -34,48 +38,49 @@ layout: default
                 </div>
 						  </div>
               <div class="nsw-row">
-                <div class="nsw-col nsw-col-md-4"><div class="nsw-card ">
-                    <div class="nsw-card__content">
-                        <h2 class="nsw-card__title">
-                          <a href="de-risk/" class="nsw-card__link">De-risk a project before building commences </a>
-                        </h2>
-                        <p class="nsw-card__copy">A simple practice to uncover user insights without the need to recruit </p>
-                        <svg class="nsw-icon nsw-card__icon" focusable="false" aria-hidden="true">
-                          <use xlink:href="#arrow"></use>
-                        </svg>
-                    </div>
-                    <div class="nsw-card__image-area">
-                        <img src="https://picsum.photos/id/1/400/200" alt="" class="nsw-card__image">
-                    </div>
-                </div></div>
-                <div class="nsw-col nsw-col-md-4"><div class="nsw-card ">
-                    <div class="nsw-card__content">
-                        <h2 class="nsw-card__title">
-                          <a href="mid-build/" class="nsw-card__link">Improve an idea that’s already being built</a>
-                        </h2>
-                        <p class="nsw-card__copy">A fast way to understand how useful your prototype is to people</p>
-                        <svg class="nsw-icon nsw-card__icon" focusable="false" aria-hidden="true">
-                          <use xlink:href="#arrow"></use>
-                        </svg>
-                    </div>
-                    <div class="nsw-card__image-area">
-                        <img src="https://picsum.photos/id/20/400/200" alt="" class="nsw-card__image">
-                    </div>
-                </div></div>
-                <div class="nsw-col nsw-col-md-4"><div class="nsw-card ">
-                    <div class="nsw-card__content">
-                        <h2 class="nsw-card__title">
-                          <a href="validate/" class="nsw-card__link">Validate a problem without slowing down the project </a>
-                        </h2>
-                        <p class="nsw-card__copy">Build your way forwards whilst you keep on learning</p>
-                        <svg class="nsw-icon nsw-card__icon" focusable="false" aria-hidden="true">
-                          <use xlink:href="#arrow"></use>
-                        </svg>
-                    </div>
-                    <div class="nsw-card__image-area">
-                        <img src="https://picsum.photos/id/160/400/200" alt="" class="nsw-card__image">
-                    </div>
-                </div></div>
+
+              <div class="nsw-grid">
+                          <div class="nsw-col nsw-col-md-4">
+                            <div class="nsw-card ">
+                                <div class="nsw-card__content">
+                                    <h2 class="nsw-card__title">
+                                      <a href="#" class="nsw-card__link">Energy save</a>
+                                    </h2>
+                                    <p class="nsw-card__copy">Helps you compare electricity and gas and switch providers.</p>
+                                    <svg class="nsw-icon nsw-card__icon" focusable="false" aria-hidden="true">
+                                      <use xlink:href="#arrow"></use>
+                                    </svg>
+                                </div>
+                            </div>
+                          </div>
+                          <div class="nsw-col nsw-col-md-4">
+                            <div class="nsw-card ">
+                                <div class="nsw-card__content">
+                                    <h2 class="nsw-card__title">
+                                      <a href="#" class="nsw-card__link">Family rebate</a>
+                                    </h2>
+                                    <p class="nsw-card__copy">Helps families with dependants to pay their energy bills. Applications opening late July for the 2019-20 rebate.</p>
+                                    <svg class="nsw-icon nsw-card__icon" focusable="false" aria-hidden="true">
+                                      <use xlink:href="#arrow"></use>
+                                    </svg>
+                                </div>
+                            </div>
+                          </div>
+                          <div class="nsw-col nsw-col-md-4">
+                            <div class="nsw-card ">
+                                <div class="nsw-card__content">
+                                    <h2 class="nsw-card__title">
+                                      <a href="#" class="nsw-card__link">Appliance save</a>
+                                    </h2>
+                                    <p class="nsw-card__copy">Concession card holders may be able to save on a new fridge or television.</p>
+                                    <svg class="nsw-icon nsw-card__icon" focusable="false" aria-hidden="true">
+                                      <use xlink:href="#arrow"></use>
+                                    </svg>
+                                </div>
+                            </div>
+                          </div>
+                        </div>              
+
               </div>
 
 
