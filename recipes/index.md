@@ -6,31 +6,26 @@ layout: default
               <div class="nsw-row nsw-m-bottom-sm">
 						    <div class="nsw-col">
 
+                              <h1>Recipes for progress</h1>
+
+                <p class="nsw-intro">Quick and easy-to-follow recipes for progressing projects and winning support.</p>
                 </div>
 						  </div>
               <div class="nsw-row nsw-m-bottom-sm">
 						    <div class="nsw-col nsw-col-md-7">
-
-                <h1>Recipes for progress</h1>
-
-                <p class="nsw-intro">Learn how to apply proven human centred design techniques and methods to accelerate your project delivery. </p>
-                <p>Run by the NSW Design Service team, you’ll get the tools and resources to solve your challenge and deliver better solutions for your customers and sponsors.</p>
-
-                <h2>What you'll get</h2>
-
+                <h2>Short on time, resources or stakeholder support?</h2>
                 <p><em>Recipes for progress</em> are research-based activities that deliver momentum for stakeholders whilst making sure you’re solving the right problem in the right way.</p>
 
                 </div>
                 <div class="nsw-col nsw-col-md-5"  style="background:WhiteSmoke;">
-                  <div class="nsw-callout">
-                    <div class="nsw-callout__content">
-                    <h4 class="nsw-callout__title">Workshop details</h4>
-                    <p>Duration: 1 day + 1 hour wrap-up</p>
-<p>Cost: Free</p>
-<p>Eligibility: Available to NSW employees only. working (or soon working on) a live project.</p>
-<p><a href="#" class="nsw-text-link">Explore the workshops</a></p>
-                  </div>
-                  </div>
+                <h2>How it works </h2>
+                <p>Each recipe follows a simple 3-stage process: </p>
+                <ul>
+                  <li><strong>Plan:</strong> Organising the objectives and logistics of your work </li>
+                  <li><strong>Learn:</strong> Doing the actual research and working out what it means for your project </li>
+                  <li><strong>Act:</strong> Using your learnings to move the project forwards</li>
+                </ul>
+
                 </div>
 						  </div>
               <div class="nsw-row">
