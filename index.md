@@ -5,7 +5,7 @@ layout: default
 <div class="nsw-grid">
               <div class="nsw-row nsw-m-bottom-sm">
 						    <div class="nsw-col">
-                      <h1>Recipes for progress</h1>
+                      <h1>Discovery workshop to deliver momentum</h1>
                 </div>
 						  </div>
               <div class="nsw-row nsw-m-bottom-sm">
