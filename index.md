@@ -11,8 +11,6 @@ layout: default
               <div class="nsw-row nsw-m-bottom-sm">
 						    <div class="nsw-col nsw-col-md-7">
 
-                <h1>Recipes for progress</h1>
-
                 <p class="nsw-intro">Learn how to apply proven human centred design techniques and methods to accelerate your project delivery. </p>
                 <p>Run by the NSW Design Service team, you’ll get the tools and resources to solve your challenge and deliver better solutions for your customers and sponsors.</p>
 
