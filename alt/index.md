@@ -28,11 +28,10 @@ layout: default
                     <div class="nsw-callout__content">
                     <h4 class="nsw-callout__title">Workshop details</h4>
                     <p>Duration: 1 day + 1 hour wrap-up</p>
-<p>Cost: Free</p>
-<p>Eligibility: Available to NSW employees only. working (or soon working on) a live project.</p>
-<p><a href="#" class="nsw-text-link">Explore the workshops</a></p>
-
-                  </div>
+                    <p>Cost: Free</p>
+                    <p>Eligibility: Available to NSW employees only. working (or soon working on) a live project.</p>
+                    <p><a href="#" class="nsw-text-link">Explore the workshops</a></p>
+                    </div>
                   </div>
                 </div>
 						  </div>
@@ -46,146 +45,153 @@ layout: default
                                           <!-- <h3 class="article-listing__title-h3 feature-h3">Featured blog</h3> -->
 
                                           <!-- <h3 class="article-listing__title-h3">Latest blog updates</h3> -->
-                                <div class="views-row">
-                              <div class="views-field views-field-card-image">          <div class="field-content">
+
+                              <div class="views-row">
+                                <div class="views-field views-field-card-image">          <div class="field-content">
 
                               <picture>
 
                                     <img class="card-full__image" src="https://live.staticflickr.com/65535/46824082875_5db1ce0f60.jpg"  style="width:362px" alt="Group of people working at office desk" typeof="foaf:Image">
                               </picture>
 
+                                </div>
+                                </div>                  
+                                <div class="detail-wrapper">
+                                  <div class="views-field views-field-field-article-category">          
+                                    <div class="field-content">Workshop</div>
+                                  </div>
+                                  <!-- <div class="views-field views-field-field-article-author">          <div class="field-content">Maria Leonardis and Jennifer Weiley</div>
+                                  </div>
+                                  <div class="views-field views-field-field-article-date">          <div class="field-content">17 Feb 2021</div>
+                                  </div> -->
+                                  <div class="views-field views-field-title">          
+                                      <span class="field-content"><a href="#" hreflang="en">De-risk your project before building commences</a></span>
+                                  </div>
+                                  <div class="views-field views-field-field-deck">          
+                                    <div class="field-content"><p>Use customer insights to inform decision decisions about your solution to manage risk.</p>
+                                        <p><strong>Output:</strong>
+                                        </p><ul><li>Estimate of project implementation costs
+                                        </li>
+                                        <li>User insights action plan
+                                        </li></ul>
+                                        <p></p>
+                                        <p><a href="">Learn more</a></p>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
 
 
 
-                              </div>
-                              </div>                  <div class="detail-wrapper">
-                              <div class="views-field views-field-field-article-category">          <div class="field-content">Workshop</div>
-                              </div>
-                              <!-- <div class="views-field views-field-field-article-author">          <div class="field-content">Maria Leonardis and Jennifer Weiley</div>
-                              </div>
-                              <div class="views-field views-field-field-article-date">          <div class="field-content">17 Feb 2021</div>
-                              </div> -->
-                                          <div class="views-field views-field-title">          
-                                          <span class="field-content"><a href="#" hreflang="en">De-risk your project before building commences</a></span>
-                              </div>            <div class="views-field views-field-field-deck">          
-                              <div class="field-content"><p>Use customer insights to inform decision decisions about your solution to manage risk.</p>
-                              <p><strong>Output:</strong>
-                              </p><ul><li>Estimate of project implementation costs
-                              </li>
-                              <li>User insights action plan
-                              </li></ul>
-                              <p></p>
-                              <p><a href="">Learn more</a></p>
-                              </div>
-                              </div>          </div>
-
-                              </div>
-                                              <div class="views-row">
-                              <div class="views-field views-field-card-image">          <div class="field-content">
+                              <div class="views-row">
+                                <div class="views-field views-field-card-image">          <div class="field-content">
 
                               <picture>
 
-<img class="card-full__image" src="https://live.staticflickr.com/65535/46824080955_7b8285f034.jpg" style="width:362px" alt="Woman typing on laptop" typeof="foaf:Image">
-
+                              <img class="card-full__image" src="https://live.staticflickr.com/65535/46824080955_7b8285f034.jpg" style="width:362px" alt="Woman typing on laptop" typeof="foaf:Image">
                               </picture>
 
-
-
-
+                                </div>
+                                </div>                  
+                                <div class="detail-wrapper">
+                                  <div class="views-field views-field-field-article-category">          
+                                    <div class="field-content">Workshop</div>
+                                  </div>
+                                  <!-- <div class="views-field views-field-field-article-author">          <div class="field-content">Maria Leonardis and Jennifer Weiley</div>
+                                  </div>
+                                  <div class="views-field views-field-field-article-date">          <div class="field-content">17 Feb 2021</div>
+                                  </div> -->
+                                  <div class="views-field views-field-title">          
+                                      <span class="field-content"><a href="#" hreflang="en">Validate an idea to get the most out of your investment</a></span>
+                                  </div>
+                                  <div class="views-field views-field-field-deck">          
+                                    <div class="field-content"><p>Get your solution into customers hands fast to improve their experience </p>
+                                        <p><strong>Output:</strong>
+                                        </p><ul><li>Action plan to validate your idea
+                                        </li>
+                                        <li>Discussion guide for customers
+                                        </li></ul>
+                                        <p></p>
+                                        <p><a href="">Learn more</a></p>
+                                    </div>
+                                  </div>
+                                </div>
                               </div>
-                              </div>                  <div class="detail-wrapper">
-                              <div class="views-field views-field-field-article-category">          <div class="field-content">Workshop</div>
-                              </div>
-                              <!-- <div class="views-field views-field-field-article-author">          <div class="field-content">Maria Leonardis and Jennifer Weiley</div>
-                              </div>
-                              <div class="views-field views-field-field-article-date">          <div class="field-content">17 Feb 2021</div>
-                              </div> -->
-                                          <div class="views-field views-field-title">          
-                                          <span class="field-content"><a href="#" hreflang="en">Validate an idea to get the most out of your investment</a></span>
-                              </div>            <div class="views-field views-field-field-deck">          
-                              <div class="field-content"><p>Get your solution into customers hands fast to improve their experience </p>
-                              <p><strong>Output:</strong>
-                              </p><ul><li>Action plan to validate your idea
-                              </li>
-                              <li>Discussion guide for customers
-                              </li></ul>
-                              <p></p>
-                              <p><a href="">Learn more</a></p>
-                              </div>
-                              </div>          </div>
-
-                              </div>
-                                              <div class="views-row">
-                              <div class="views-field views-field-card-image">          <div class="field-content">
-
-                              <picture>
-
-<img class="card-full__image" src="https://live.staticflickr.com/65535/49280156318_bb00bc9263.jpg" style="width:362px" alt="Woman typing on laptop" typeof="foaf:Image">
-
-                              </picture>
 
 
 
-
-                              </div>
-                              </div>                  <div class="detail-wrapper">
-                              <div class="views-field views-field-field-article-category">          <div class="field-content">Workshop</div>
-                              </div>
-                              <!-- <div class="views-field views-field-field-article-author">          <div class="field-content">Maria Leonardis and Jennifer Weiley</div>
-                              </div>
-                              <div class="views-field views-field-field-article-date">          <div class="field-content">17 Feb 2021</div>
-                              </div> -->
-                                          <div class="views-field views-field-title">          
-                                          <span class="field-content"><a href="#" hreflang="en">De-risk your project before building commences</a></span>
-                              </div>            <div class="views-field views-field-field-deck">          
-                              <div class="field-content"><p>Use customer insights to inform decision decisions about your solution, to save you time and cost.</p>
-                              <p><strong>Output:</strong>
-                              </p><ul><li>Estimate of project implementation costs
-                              </li>
-                              <li>User insights action plan
-                              </li></ul>
-                              <p></p>
-                              <p><a href="">Learn more</a></p>
-                              </div>
-                              </div>          </div>
-
-                              </div>
-                                              <div class="views-row">
-                              <div class="views-field views-field-card-image">          <div class="field-content">
+                              <div class="views-row">
+                                <div class="views-field views-field-card-image">          <div class="field-content">
 
                               <picture>
 
 <img class="card-full__image" src="https://live.staticflickr.com/65535/49280156318_bb00bc9263.jpg" style="width:362px" alt="Woman typing on laptop" typeof="foaf:Image">
-
                               </picture>
 
-
-
-
+                                </div>
+                                </div>                  
+                                <div class="detail-wrapper">
+                                  <div class="views-field views-field-field-article-category">          
+                                    <div class="field-content">Workshop</div>
+                                  </div>
+                                  <!-- <div class="views-field views-field-field-article-author">          <div class="field-content">Maria Leonardis and Jennifer Weiley</div>
+                                  </div>
+                                  <div class="views-field views-field-field-article-date">          <div class="field-content">17 Feb 2021</div>
+                                  </div> -->
+                                  <div class="views-field views-field-title">          
+                                      <span class="field-content"><a href="#" hreflang="en">Use customer insights to fast track delivery</a></span>
+                                  </div>
+                                  <div class="views-field views-field-field-deck">          
+                                    <div class="field-content"><p>Make smart decisions before you build, so you’re maximising return on investment.</p>
+                                        <p><strong>Output:</strong>
+                                        </p><ul><li>Customer insights tracker
+                                        </li>
+                                        <li><em>Findings to actionable insights</em> deck
+                                        </li></ul>
+                                        <p></p>
+                                        <p><a href="">Learn more</a></p>
+                                    </div>
+                                  </div>
+                                </div>
                               </div>
-                              </div>                  
 
+
+
+                              <div class="views-row">
+                                <div class="views-field views-field-card-image">          <div class="field-content">
+
+                              <picture>
+
+                                    <img class="card-full__image" src="https://live.staticflickr.com/65535/47687770652_934d5c1160.jpg"  style="width:362px" alt="Group of people working at office desk" typeof="foaf:Image">
+                              </picture>
+
+                                </div>
+                                </div>                  
+                                <div class="detail-wrapper">
+                                  <div class="views-field views-field-field-article-category">          
+                                    <div class="field-content">Workshop</div>
+                                  </div>
+                                  <!-- <div class="views-field views-field-field-article-author">          <div class="field-content">Maria Leonardis and Jennifer Weiley</div>
+                                  </div>
+                                  <div class="views-field views-field-field-article-date">          <div class="field-content">17 Feb 2021</div>
+                                  </div> -->
+                                  <div class="views-field views-field-title">          
+                                      <span class="field-content"><a href="#" hreflang="en">Deliver on an idea quickly while meeting business and customer needs</a></span>
+                                  </div>
+                                  <div class="views-field views-field-field-deck">          
+                                    <div class="field-content"><p>Align business and customer needs with your solution so you can build with confidence.</p>
+                                        <p><strong>Output:</strong>
+                                        </p><ul><li>Customer journey map
+                                        </li>
+                                        <li>design and development plan
+                                        </li></ul>
+                                        <p></p>
+                                        <p><a href="">Learn more</a></p>
+                                    </div>
+                                  </div>
+                                </div>
                               </div>
 
-
-
-
-
-
-
-                              </div>
-
-
-
-                              </div>
-
-                              </div>
-
-
-              </div>
-
-
-
-
-
-						</div>
+                            </div>
+                          </div>
+                        </div>
