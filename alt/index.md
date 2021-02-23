@@ -66,7 +66,7 @@ layout: default
 </div> -->
             <div class="views-field views-field-title">          <span class="field-content"><a href="#" hreflang="en">De-risk your project before building commences</a></span>
 </div>            <div class="views-field views-field-field-deck">          <div class="field-content"><p>Use customer insights to inform decision decisions about your solution, to save you time and cost.</p>
-<p>Output:
+<p><strong>Output:</strong>
 <ul><li>Estimate of project implementation costs
 </li>
 <li>User insights action plan
