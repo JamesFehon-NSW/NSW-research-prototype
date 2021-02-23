@@ -48,10 +48,7 @@ layout: default
 <div class="views-field views-field-card-image">          <div class="field-content">
 
 <picture>
-      <source srcset="/sites/default/files/styles/card_full_lg_x1/public/2020-12/Woman-typing-on-laptop.jpg?h=9d96f97f&amp;itok=owGHiC-e 1x, /sites/default/files/styles/card_full_lg_x2/public/2020-12/Woman-typing-on-laptop.jpg?h=9d96f97f&amp;itok=hKsWWAsI 2x" media="(min-width: 1280px)" type="image/jpeg">
-  <source srcset="/sites/default/files/styles/card_full_md_x1/public/2020-12/Woman-typing-on-laptop.jpg?h=9d96f97f&amp;itok=pWSBZpy5 1x, /sites/default/files/styles/card_full_md_x2/public/2020-12/Woman-typing-on-laptop.jpg?h=9d96f97f&amp;itok=0EOz2TR4 2x" media="(min-width: 768px)" type="image/jpeg">
-  <source srcset="/sites/default/files/styles/card_x1/public/2020-12/Woman-typing-on-laptop.jpg?h=9d96f97f&amp;itok=99Pa97BB 1x, /sites/default/files/styles/card_x2/public/2020-12/Woman-typing-on-laptop.jpg?h=9d96f97f&amp;itok=ZmkK7xrg 2x" type="image/jpeg">
-      <img class="card-full__image" src="/sites/default/files/styles/card_x1/public/2020-12/Woman-typing-on-laptop.jpg?h=9d96f97f&amp;itok=99Pa97BB" alt="Woman typing on laptop" typeof="foaf:Image">
+        <img class="card-full__image" src="https://picsum.photos/id/1/400/200" alt="Woman typing on laptop" typeof="foaf:Image">
 
 </picture>
 
@@ -72,10 +69,8 @@ layout: default
 <div class="views-field views-field-card-image">          <div class="field-content">
 
 <picture>
-      <source srcset="/sites/default/files/styles/card_full_lg_x1/public/2020-12/Group-of-people-working-at-office-desk.jpg?h=9d96f97f&amp;itok=Q9XHAoBq 1x, /sites/default/files/styles/card_full_lg_x2/public/2020-12/Group-of-people-working-at-office-desk.jpg?h=9d96f97f&amp;itok=tmm8tyzk 2x" media="(min-width: 1280px)" type="image/jpeg">
-  <source srcset="/sites/default/files/styles/card_full_md_x1/public/2020-12/Group-of-people-working-at-office-desk.jpg?h=9d96f97f&amp;itok=c4b158Hz 1x, /sites/default/files/styles/card_full_md_x2/public/2020-12/Group-of-people-working-at-office-desk.jpg?h=9d96f97f&amp;itok=xTP6TXv7 2x" media="(min-width: 768px)" type="image/jpeg">
-  <source srcset="/sites/default/files/styles/card_x1/public/2020-12/Group-of-people-working-at-office-desk.jpg?h=9d96f97f&amp;itok=8nDOEQ2B 1x, /sites/default/files/styles/card_x2/public/2020-12/Group-of-people-working-at-office-desk.jpg?h=9d96f97f&amp;itok=ESEarhxg 2x" type="image/jpeg">
-      <img class="card-full__image" src="/sites/default/files/styles/card_x1/public/2020-12/Group-of-people-working-at-office-desk.jpg?h=9d96f97f&amp;itok=8nDOEQ2B" alt="Group of people working at office desk" typeof="foaf:Image">
+
+      <img class="card-full__image" src="https://picsum.photos/id/20/400/200" alt="Group of people working at office desk" typeof="foaf:Image">
 
 </picture>
 
