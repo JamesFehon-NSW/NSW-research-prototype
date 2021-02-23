@@ -49,7 +49,7 @@ layout: default
 <div class="views-field views-field-card-image">          <div class="field-content">
 
 <picture>
-        <img class="card-full__image" src="https://picsum.photos/id/1/400/200" alt="Woman typing on laptop" typeof="foaf:Image">
+        <img class="card-full__image" src="https://picsum.photos/id/1/362/200" alt="Woman typing on laptop" typeof="foaf:Image">
 
 </picture>
 
@@ -71,7 +71,7 @@ layout: default
 
 <picture>
 
-      <img class="card-full__image" src="https://picsum.photos/id/20/400/200" alt="Group of people working at office desk" typeof="foaf:Image">
+      <img class="card-full__image" src="https://picsum.photos/id/20/362/200" alt="Group of people working at office desk" typeof="foaf:Image">
 
 </picture>
 
@@ -92,10 +92,7 @@ layout: default
 <div class="views-field views-field-card-image">          <div class="field-content">
 
 <picture>
-      <source srcset="/sites/default/files/styles/card_full_lg_x1/public/2020-12/Man-attaching-sticky-note-to-task-board-in-the-office.jpg?h=9d96f97f&amp;itok=J00LwmMl 1x, /sites/default/files/styles/card_full_lg_x2/public/2020-12/Man-attaching-sticky-note-to-task-board-in-the-office.jpg?h=9d96f97f&amp;itok=66MJIa03 2x" media="(min-width: 1280px)" type="image/jpeg">
-  <source srcset="/sites/default/files/styles/card_full_md_x1/public/2020-12/Man-attaching-sticky-note-to-task-board-in-the-office.jpg?h=9d96f97f&amp;itok=kwhXn-nZ 1x, /sites/default/files/styles/card_full_md_x2/public/2020-12/Man-attaching-sticky-note-to-task-board-in-the-office.jpg?h=9d96f97f&amp;itok=MuduTmbQ 2x" media="(min-width: 768px)" type="image/jpeg">
-  <source srcset="/sites/default/files/styles/card_x1/public/2020-12/Man-attaching-sticky-note-to-task-board-in-the-office.jpg?h=9d96f97f&amp;itok=9NGtieir 1x, /sites/default/files/styles/card_x2/public/2020-12/Man-attaching-sticky-note-to-task-board-in-the-office.jpg?h=9d96f97f&amp;itok=o5qEEThy 2x" type="image/jpeg">
-      <img class="card-full__image" src="/sites/default/files/styles/card_x1/public/2020-12/Man-attaching-sticky-note-to-task-board-in-the-office.jpg?h=9d96f97f&amp;itok=9NGtieir" alt="Man attaching sticky note to task board in the office" typeof="foaf:Image">
+<img class="card-full__image" src="https://picsum.photos/id/20/362/200" alt="Group of people working at office desk" typeof="foaf:Image">
 
 </picture>
 
@@ -281,7 +278,7 @@ layout: default
 </div>
 
                               </div>
-              
+
 
               </div>
 
