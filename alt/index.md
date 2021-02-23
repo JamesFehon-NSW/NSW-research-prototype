@@ -51,7 +51,7 @@ layout: default
 
                               <picture>
 
-                                    <img class="card-full__image" src="https://live.staticflickr.com/65535/46824082875_5db1ce0f60.jpg" alt="Group of people working at office desk" typeof="foaf:Image">
+                                    <img class="card-full__image" src="https://live.staticflickr.com/65535/46824082875_5db1ce0f60.jpg"  style="width:362px" alt="Group of people working at office desk" typeof="foaf:Image">
                               </picture>
 
 
@@ -120,7 +120,7 @@ layout: default
 
                               <picture>
 
-                                    <img class="card-full__image" src="https://picsum.photos/id/20/362/255" alt="Group of people working at office desk" typeof="foaf:Image">
+<img class="card-full__image" src="https://live.staticflickr.com/65535/49280156318_bb00bc9263.jpg" style="width:362px" alt="Woman typing on laptop" typeof="foaf:Image">
 
                               </picture>
 
@@ -155,7 +155,7 @@ layout: default
 
                               <picture>
 
-                                    <img class="card-full__image" src="https://picsum.photos/id/20/362/255" alt="Group of people working at office desk" typeof="foaf:Image">
+<img class="card-full__image" src="https://live.staticflickr.com/65535/49280156318_bb00bc9263.jpg" style="width:362px" alt="Woman typing on laptop" typeof="foaf:Image">
 
                               </picture>
 
@@ -163,14 +163,8 @@ layout: default
 
 
                               </div>
-                              </div>                  <div class="detail-wrapper">
-                              <div class="views-field views-field-field-article-category">          <div class="field-content">What we’re working on</div>
-                              </div>            <div class="views-field views-field-field-article-author">          <div class="field-content">Megan Tiatia</div>
-                              </div>            <div class="views-field views-field-field-article-date">          <div class="field-content">21 Dec 2020</div>
-                              </div>            <div class="views-field views-field-title">          <span class="field-content"><a href="/consolidation/blog/digital-channels-team-a-year-review-and-what-a-year-it-was" hreflang="en">Digital Channels team: a year in review (and what a year it was!)</a></span>
-                              </div>            <div class="views-field views-field-field-deck">          <div class="field-content"><p>2020 was a year like no other. A year that started with the worst bushfires the state has seen, to floods, and…</p></div>
-                              </div>          </div>
-
+                              </div>                  
+                              
                               </div>
 
 
