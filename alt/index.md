@@ -65,7 +65,15 @@ layout: default
 <div class="views-field views-field-field-article-date">          <div class="field-content">17 Feb 2021</div>
 </div> -->
             <div class="views-field views-field-title">          <span class="field-content"><a href="#" hreflang="en">De-risk your project before building commences</a></span>
-</div>            <div class="views-field views-field-field-deck">          <div class="field-content"><p>Use customer insights to inform decision decisions about your solution, to save you time and cost.</p></div>
+</div>            <div class="views-field views-field-field-deck">          <div class="field-content"><p>Use customer insights to inform decision decisions about your solution, to save you time and cost.</p>
+<p>Output:
+<ul><li>Estimate of project implementation costs
+</li>
+<li>User insights action plan
+</li></ul>
+</p>
+<p><a href="">Learn more</a></p>
+</div>
 </div>          </div>
 
 </div>
