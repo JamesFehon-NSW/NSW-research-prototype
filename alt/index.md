@@ -27,9 +27,24 @@ layout: default
                   <div class="nsw-callout">
                     <div class="nsw-callout__content">
                     <h4 class="nsw-callout__title">Workshop details</h4>
-                    <p><strong>Duration:</strong> 1 day + 1 hour wrap-up</p>
+                    <p><strong>Duration:</strong>
+                      <ul><li>one day facilitated workshop by the Design System team
+                      </li>
+                      <li>two weeks to put your learnings in action
+                      </li>
+                      <li>one check-in post workshop
+                      </li></ul>
+                    </p>
                     <p><strong>Cost:</strong> Free</p>
-                    <p><strong>Eligibility:</strong> Available to NSW employees only. working (or soon working on) a live project.</p>
+                    <p><strong>Eligibility:</strong>
+                      <ul><li>You're about to start (or have just started) a project to deliver a digital solution
+                      </li>
+                      <li>You work in a NSW government agency
+                      </li>
+                      <li>You have two weeks to apply the methods you’ll learn
+                      </li></ul>
+
+                    </p>
                     <p><a href="#" class="nsw-text-link">Explore the workshops</a></p>
                     </div>
                   </div>
