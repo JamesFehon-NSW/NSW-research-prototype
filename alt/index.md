@@ -5,7 +5,7 @@ layout: default
 <div class="nsw-grid">
               <div class="nsw-row nsw-m-bottom-sm">
 						    <div class="nsw-col">
-                      <h1>Discovery workshop to deliver momentum</h1>
+                      <h1>Planning to deliver: workshop and coaching</h1>
                 </div>
 						  </div>
               <div class="nsw-row nsw-m-bottom-sm">
@@ -50,8 +50,8 @@ layout: default
                               <div class="views-field views-field-card-image">          <div class="field-content">
 
                               <picture>
-                                      <img class="card-full__image" src="https://live.staticflickr.com/65535/49280156318_bb00bc9263.jpg" style="width:362px" alt="Woman typing on laptop" typeof="foaf:Image">
 
+                                    <img class="card-full__image" src="https://live.staticflickr.com/65535/46824082875_5db1ce0f60.jpg" alt="Group of people working at office desk" typeof="foaf:Image">
                               </picture>
 
 
@@ -85,7 +85,7 @@ layout: default
 
                               <picture>
 
-                                    <img class="card-full__image" src="https://live.staticflickr.com/65535/46824082875_5db1ce0f60.jpg" alt="Group of people working at office desk" typeof="foaf:Image">
+<img class="card-full__image" src="https://live.staticflickr.com/65535/49280156318_bb00bc9263.jpg" style="width:362px" alt="Woman typing on laptop" typeof="foaf:Image">
 
                               </picture>
 
