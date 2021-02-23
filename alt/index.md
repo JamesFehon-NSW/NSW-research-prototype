@@ -12,7 +12,7 @@ layout: default
 						    <div class="nsw-col nsw-col-md-8">
 
                 <p class="nsw-intro">Learn how to leverage proven research techniques and methods to accelerate your project delivery. </p>
-                <p>Run by the NSW Design Service team, you’ll get the tools and resources to solve your challenge and deliver better solutions for your customers and sponsors.</p>
+                <p>Run by the NSW Design System team, you’ll get the tools and resources to solve your challenge and deliver better solutions for your customers and sponsors.</p>
 
                 <h2>What you'll get</h2>
 
