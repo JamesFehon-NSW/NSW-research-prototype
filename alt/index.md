@@ -50,7 +50,7 @@ layout: default
                               <div class="views-field views-field-card-image">          <div class="field-content">
 
                               <picture>
-                                      <img class="card-full__image" src="https://picsum.photos/id/1/362/200" alt="Woman typing on laptop" typeof="foaf:Image">
+                                      <img class="card-full__image" src="https://picsum.photos/id/1/362/255" alt="Woman typing on laptop" typeof="foaf:Image">
 
                               </picture>
 
@@ -65,8 +65,10 @@ layout: default
                               </div>
                               <div class="views-field views-field-field-article-date">          <div class="field-content">17 Feb 2021</div>
                               </div> -->
-                                          <div class="views-field views-field-title">          <span class="field-content"><a href="#" hreflang="en">De-risk your project before building commences</a></span>
-                              </div>            <div class="views-field views-field-field-deck">          <div class="field-content"><p>Use customer insights to inform decision decisions about your solution, to save you time and cost.</p>
+                                          <div class="views-field views-field-title">          
+                                          <span class="field-content"><a href="#" hreflang="en">De-risk your project before building commences</a></span>
+                              </div>            <div class="views-field views-field-field-deck">          
+                              <div class="field-content"><p>Use customer insights to inform decision decisions about your solution, to save you time and cost.</p>
                               <p><strong>Output:</strong>
                               </p><ul><li>Estimate of project implementation costs
                               </li>
@@ -83,7 +85,7 @@ layout: default
 
                               <picture>
 
-                                    <img class="card-full__image" src="https://picsum.photos/id/20/362/200" alt="Group of people working at office desk" typeof="foaf:Image">
+                                    <img class="card-full__image" src="https://picsum.photos/id/20/362/255" alt="Group of people working at office desk" typeof="foaf:Image">
 
                               </picture>
 
@@ -92,11 +94,24 @@ layout: default
 
                               </div>
                               </div>                  <div class="detail-wrapper">
-                              <div class="views-field views-field-field-article-category">          <div class="field-content">Ways of working</div>
-                              </div>            <div class="views-field views-field-field-article-author">          <div class="field-content">Rika Johnander</div>
-                              </div>            <div class="views-field views-field-field-article-date">          <div class="field-content">28 Jan 2021</div>
-                              </div>            <div class="views-field views-field-title">          <span class="field-content"><a href="/consolidation/blog/lessons-learnt-from-user-testing-our-beta-product" hreflang="en">Lessons learnt from user testing our beta product</a></span>
-                              </div>            <div class="views-field views-field-field-deck">          <div class="field-content"><p>Usability testing is a way to evaluate a product or product feature by testing it on users. We do this by…</p></div>
+                              <div class="views-field views-field-field-article-category">          <div class="field-content">Workshop</div>
+                              </div>
+                              <!-- <div class="views-field views-field-field-article-author">          <div class="field-content">Maria Leonardis and Jennifer Weiley</div>
+                              </div>
+                              <div class="views-field views-field-field-article-date">          <div class="field-content">17 Feb 2021</div>
+                              </div> -->
+                                          <div class="views-field views-field-title">          
+                                          <span class="field-content"><a href="#" hreflang="en">De-risk your project before building commences</a></span>
+                              </div>            <div class="views-field views-field-field-deck">          
+                              <div class="field-content"><p>Use customer insights to inform decision decisions about your solution, to save you time and cost.</p>
+                              <p><strong>Output:</strong>
+                              </p><ul><li>Estimate of project implementation costs
+                              </li>
+                              <li>User insights action plan
+                              </li></ul>
+                              <p></p>
+                              <p><a href="">Learn more</a></p>
+                              </div>
                               </div>          </div>
 
                               </div>
@@ -104,7 +119,8 @@ layout: default
                               <div class="views-field views-field-card-image">          <div class="field-content">
 
                               <picture>
-                              <img class="card-full__image" src="https://picsum.photos/id/20/362/200" alt="Group of people working at office desk" typeof="foaf:Image">
+
+                                    <img class="card-full__image" src="https://picsum.photos/id/20/362/255" alt="Group of people working at office desk" typeof="foaf:Image">
 
                               </picture>
 
@@ -113,11 +129,24 @@ layout: default
 
                               </div>
                               </div>                  <div class="detail-wrapper">
-                              <div class="views-field views-field-field-article-category">          <div class="field-content">Case study</div>
-                              </div>            <div class="views-field views-field-field-article-author">          <div class="field-content">Megan Tiatia</div>
-                              </div>            <div class="views-field views-field-field-article-date">          <div class="field-content">15 Jan 2021</div>
-                              </div>            <div class="views-field views-field-title">          <span class="field-content"><a href="/consolidation/blog/we-moved-our-corporate-site-to-nswgovau" hreflang="en">We moved our corporate site to nsw.gov.au (and here’s what we learnt)</a></span>
-                              </div>            <div class="views-field views-field-field-deck">          <div class="field-content"><p>In April 2020, the Department of Customer Service (DCS) website was one of the first to be consolidated into…</p></div>
+                              <div class="views-field views-field-field-article-category">          <div class="field-content">Workshop</div>
+                              </div>
+                              <!-- <div class="views-field views-field-field-article-author">          <div class="field-content">Maria Leonardis and Jennifer Weiley</div>
+                              </div>
+                              <div class="views-field views-field-field-article-date">          <div class="field-content">17 Feb 2021</div>
+                              </div> -->
+                                          <div class="views-field views-field-title">          
+                                          <span class="field-content"><a href="#" hreflang="en">De-risk your project before building commences</a></span>
+                              </div>            <div class="views-field views-field-field-deck">          
+                              <div class="field-content"><p>Use customer insights to inform decision decisions about your solution, to save you time and cost.</p>
+                              <p><strong>Output:</strong>
+                              </p><ul><li>Estimate of project implementation costs
+                              </li>
+                              <li>User insights action plan
+                              </li></ul>
+                              <p></p>
+                              <p><a href="">Learn more</a></p>
+                              </div>
                               </div>          </div>
 
                               </div>
@@ -125,8 +154,8 @@ layout: default
                               <div class="views-field views-field-card-image">          <div class="field-content">
 
                               <picture>
-                              <img class="card-full__image" src="https://picsum.photos/id/20/362/200" alt="Group of people working at office desk" typeof="foaf:Image">
 
+                                    <img class="card-full__image" src="https://picsum.photos/id/20/362/255" alt="Group of people working at office desk" typeof="foaf:Image">
 
                               </picture>
 
