@@ -85,7 +85,7 @@ layout: default
 
                               <picture>
 
-<img class="card-full__image" src="https://live.staticflickr.com/65535/49280156318_bb00bc9263.jpg" style="width:362px" alt="Woman typing on laptop" typeof="foaf:Image">
+<img class="card-full__image" src="https://live.staticflickr.com/65535/46824080955_7b8285f034.jpg" style="width:362px" alt="Woman typing on laptop" typeof="foaf:Image">
 
                               </picture>
 
@@ -164,7 +164,7 @@ layout: default
 
                               </div>
                               </div>                  
-                              
+
                               </div>
 
 
