@@ -58,11 +58,14 @@ layout: default
 
 </div>
 </div>                  <div class="detail-wrapper">
-<div class="views-field views-field-field-article-category">          <div class="field-content">Ways of working</div>
-</div>            <div class="views-field views-field-field-article-author">          <div class="field-content">Maria Leonardis and Jennifer Weiley</div>
-</div>            <div class="views-field views-field-field-article-date">          <div class="field-content">17 Feb 2021</div>
-</div>            <div class="views-field views-field-title">          <span class="field-content"><a href="/consolidation/blog/designing-content-for-customer-mindsets" hreflang="en">Designing content for customer mindsets</a></span>
-</div>            <div class="views-field views-field-field-deck">          <div class="field-content"><p>Working with customer mindsets is an alternative to persona-based content design. A customer mindset approach…</p></div>
+<div class="views-field views-field-field-article-category">          <div class="field-content">Workshop</div>
+</div>
+<!-- <div class="views-field views-field-field-article-author">          <div class="field-content">Maria Leonardis and Jennifer Weiley</div>
+</div>
+<div class="views-field views-field-field-article-date">          <div class="field-content">17 Feb 2021</div>
+</div> -->
+            <div class="views-field views-field-title">          <span class="field-content"><a href="#" hreflang="en">De-risk your project before building commences</a></span>
+</div>            <div class="views-field views-field-field-deck">          <div class="field-content"><p>Use customer insights to inform decision decisions about your solution, to save you time and cost.</p></div>
 </div>          </div>
 
 </div>
