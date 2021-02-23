@@ -113,10 +113,8 @@ layout: default
 <div class="views-field views-field-card-image">          <div class="field-content">
 
 <picture>
-      <source srcset="/sites/default/files/styles/card_full_lg_x1/public/2020-12/Flipping-wooden-cubes-for-new-year-change-2020-to-2021.jpg?h=8227057d&amp;itok=_OnA-o5t 1x, /sites/default/files/styles/card_full_lg_x2/public/2020-12/Flipping-wooden-cubes-for-new-year-change-2020-to-2021.jpg?h=8227057d&amp;itok=W_aqW7uh 2x" media="(min-width: 1280px)" type="image/jpeg">
-  <source srcset="/sites/default/files/styles/card_full_md_x1/public/2020-12/Flipping-wooden-cubes-for-new-year-change-2020-to-2021.jpg?h=8227057d&amp;itok=UrXI_a3Z 1x, /sites/default/files/styles/card_full_md_x2/public/2020-12/Flipping-wooden-cubes-for-new-year-change-2020-to-2021.jpg?h=8227057d&amp;itok=rbZKVu7e 2x" media="(min-width: 768px)" type="image/jpeg">
-  <source srcset="/sites/default/files/styles/card_x1/public/2020-12/Flipping-wooden-cubes-for-new-year-change-2020-to-2021.jpg?h=8227057d&amp;itok=hnEzMsz7 1x, /sites/default/files/styles/card_x2/public/2020-12/Flipping-wooden-cubes-for-new-year-change-2020-to-2021.jpg?h=8227057d&amp;itok=5dL2l8U1 2x" type="image/jpeg">
-      <img class="card-full__image" src="/sites/default/files/styles/card_x1/public/2020-12/Flipping-wooden-cubes-for-new-year-change-2020-to-2021.jpg?h=8227057d&amp;itok=hnEzMsz7" alt="Flipping wooden cubes for new year change 2020 to 2021" typeof="foaf:Image">
+<img class="card-full__image" src="https://picsum.photos/id/20/362/200" alt="Group of people working at office desk" typeof="foaf:Image">
+
 
 </picture>
 
@@ -137,10 +135,8 @@ layout: default
 <div class="views-field views-field-card-image">          <div class="field-content">
 
 <picture>
-      <source srcset="/sites/default/files/styles/card_full_lg_x1/public/2020-09/female-using-a-mobile-phone-to-sign-in-at-a-covid-safe-cafe.jpg?h=ee11da7d&amp;itok=cpOOxXIx 1x, /sites/default/files/styles/card_full_lg_x2/public/2020-09/female-using-a-mobile-phone-to-sign-in-at-a-covid-safe-cafe.jpg?h=ee11da7d&amp;itok=Ekh_MMzu 2x" media="(min-width: 1280px)" type="image/jpeg">
-  <source srcset="/sites/default/files/styles/card_full_md_x1/public/2020-09/female-using-a-mobile-phone-to-sign-in-at-a-covid-safe-cafe.jpg?h=ee11da7d&amp;itok=GWy-wXRB 1x, /sites/default/files/styles/card_full_md_x2/public/2020-09/female-using-a-mobile-phone-to-sign-in-at-a-covid-safe-cafe.jpg?h=ee11da7d&amp;itok=CKnjZGvQ 2x" media="(min-width: 768px)" type="image/jpeg">
-  <source srcset="/sites/default/files/styles/card_x1/public/2020-09/female-using-a-mobile-phone-to-sign-in-at-a-covid-safe-cafe.jpg?h=ee11da7d&amp;itok=TwAJN99F 1x, /sites/default/files/styles/card_x2/public/2020-09/female-using-a-mobile-phone-to-sign-in-at-a-covid-safe-cafe.jpg?h=ee11da7d&amp;itok=bPqImHi5 2x" type="image/jpeg">
-      <img class="card-full__image" src="/sites/default/files/styles/card_x1/public/2020-09/female-using-a-mobile-phone-to-sign-in-at-a-covid-safe-cafe.jpg?h=ee11da7d&amp;itok=TwAJN99F" alt="A female using a mobile phone to sign in at a COVID Safe cafe" typeof="foaf:Image">
+<img class="card-full__image" src="https://picsum.photos/id/20/362/200" alt="Group of people working at office desk" typeof="foaf:Image">
+
 
 </picture>
 
