@@ -50,7 +50,7 @@ layout: default
                               <div class="views-field views-field-card-image">          <div class="field-content">
 
                               <picture>
-                                      <img class="card-full__image" src="https://picsum.photos/id/1/362/255" alt="Woman typing on laptop" typeof="foaf:Image">
+                                      <img class="card-full__image" src="https://live.staticflickr.com/65535/49280156318_bb00bc9263.jpg" style="width:362px" alt="Woman typing on laptop" typeof="foaf:Image">
 
                               </picture>
 
@@ -68,7 +68,7 @@ layout: default
                                           <div class="views-field views-field-title">          
                                           <span class="field-content"><a href="#" hreflang="en">De-risk your project before building commences</a></span>
                               </div>            <div class="views-field views-field-field-deck">          
-                              <div class="field-content"><p>Use customer insights to inform decision decisions about your solution, to save you time and cost.</p>
+                              <div class="field-content"><p>Use customer insights to inform decision decisions about your solution to manage risk.</p>
                               <p><strong>Output:</strong>
                               </p><ul><li>Estimate of project implementation costs
                               </li>
