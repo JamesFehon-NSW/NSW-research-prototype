@@ -85,7 +85,7 @@ layout: default
 
                               <picture>
 
-                                    <img class="card-full__image" src="https://picsum.photos/id/20/362/255" alt="Group of people working at office desk" typeof="foaf:Image">
+                                    <img class="card-full__image" src="https://live.staticflickr.com/65535/46824082875_5db1ce0f60.jpg" alt="Group of people working at office desk" typeof="foaf:Image">
 
                               </picture>
 
@@ -101,9 +101,9 @@ layout: default
                               <div class="views-field views-field-field-article-date">          <div class="field-content">17 Feb 2021</div>
                               </div> -->
                                           <div class="views-field views-field-title">          
-                                          <span class="field-content"><a href="#" hreflang="en">De-risk your project before building commences</a></span>
+                                          <span class="field-content"><a href="#" hreflang="en">Validate an idea to get the most out of your investment</a></span>
                               </div>            <div class="views-field views-field-field-deck">          
-                              <div class="field-content"><p>Use customer insights to inform decision decisions about your solution, to save you time and cost.</p>
+                              <div class="field-content"><p>Get your solution into customers hands fast to improve their experience </p>
                               <p><strong>Output:</strong>
                               </p><ul><li>Estimate of project implementation costs
                               </li>
