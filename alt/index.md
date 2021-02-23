@@ -14,36 +14,27 @@ layout: default
                 <p class="nsw-intro">Learn how to leverage proven research techniques and methods to accelerate your project delivery. </p>
                 <p>Run by the NSW Design System team, you’ll get the tools and resources to solve your challenge and deliver better solutions for your customers and sponsors.</p>
 
+
+                <h2>Who's it for?</h2>
+                <p>Project managers, designers and researchers looking for new ways to leverage user research to deliver products and services. </p>
+
                 <h2>What you'll get</h2>
 
                 <ul>
-                  <li>Adptable research plan</li>
-                  <li>Reusable templates and resources </li>
-                  <li>Validated tools and templates to present your findings.</li>
+                  <li>One day face-to-face workshop with the Design System team.</li>
+                  <li>Two weeks of expert support and troubleshooting.</li>
+                  <li>Reusable templates and resources.</li>
                 </ul>
 
                 </div>
                 <div class="nsw-col nsw-col-md-4">
                   <div class="nsw-callout">
                     <div class="nsw-callout__content">
-                    <h4 class="nsw-callout__title">Workshop details</h4>
-                    <p><strong>Duration:</strong>
-                      <ul><li>one day facilitated workshop by the Design System team
-                      </li>
-                      <li>two weeks to put your learnings in action
-                      </li>
-                      <li>one check-in post workshop
-                      </li></ul>
+                    <h4 class="nsw-callout__title">Details</h4>
+                    <p><strong>Time:</strong>one day workshop
                     </p>
-                    <p><strong>Cost:</strong> Free</p>
-                    <p><strong>Eligibility:</strong>
-                      <ul><li>You're about to start (or have just started) a project to deliver a digital solution
-                      </li>
-                      <li>You work in a NSW government agency
-                      </li>
-                      <li>You have two weeks to apply the methods you’ll learn
-                      </li></ul>
-
+                    <p><strong>Cost:</strong> free</p>
+                    <p><strong>Eligibility:</strong> NSW government teams who have a challenge or problem ready to start work on.
                     </p>
                     <p><a href="#" class="nsw-text-link">Explore the workshops</a></p>
                     </div>
@@ -83,11 +74,11 @@ layout: default
                                       <span class="field-content"><a href="#" hreflang="en">De-risk your project before building commences</a></span>
                                   </div>
                                   <div class="views-field views-field-field-deck">          
-                                    <div class="field-content"><p>Use customer insights to inform decision decisions about your solution to manage risk.</p>
+                                    <div class="field-content"><p>Learn how to use early user research to minimise risk later in the project.</p>
                                         <p><strong>Output:</strong>
-                                        </p><ul><li>Estimate of project implementation costs
+                                        </p><ul><li>User research and engagement plan
                                         </li>
-                                        <li>User insights action plan
+                                        <li>Estimate of costs for your user research plan
                                         </li></ul>
                                         <p></p>
                                         <p><a href="">Learn more</a></p>
@@ -117,12 +108,12 @@ layout: default
                                   <div class="views-field views-field-field-article-date">          <div class="field-content">17 Feb 2021</div>
                                   </div> -->
                                   <div class="views-field views-field-title">          
-                                      <span class="field-content"><a href="#" hreflang="en">Validate an idea to get the most out of your investment</a></span>
+                                      <span class="field-content"><a href="#" hreflang="en">Get the most from your investment by validating ideas fast </a></span>
                                   </div>
                                   <div class="views-field views-field-field-deck">          
-                                    <div class="field-content"><p>Get your solution into customers hands fast to improve their experience </p>
+                                    <div class="field-content"><p>See how getting your initial solution into customers hands early saves time and costs down the track.</p>
                                         <p><strong>Output:</strong>
-                                        </p><ul><li>Action plan to validate your idea
+                                        </p><ul><li>Testing plan to validate your idea
                                         </li>
                                         <li>Discussion guide for customers
                                         </li></ul>
@@ -154,14 +145,14 @@ layout: default
                                   <div class="views-field views-field-field-article-date">          <div class="field-content">17 Feb 2021</div>
                                   </div> -->
                                   <div class="views-field views-field-title">          
-                                      <span class="field-content"><a href="#" hreflang="en">Use customer insights to fast track delivery</a></span>
+                                      <span class="field-content"><a href="#" hreflang="en">Fast track delivery by using customer insights</a></span>
                                   </div>
                                   <div class="views-field views-field-field-deck">          
-                                    <div class="field-content"><p>Make smart decisions before you build, so you’re maximising return on investment.</p>
+                                    <div class="field-content"><p>Learn how to turn your customer insights into actionable improvements for your product or service.</p>
                                         <p><strong>Output:</strong>
-                                        </p><ul><li>Customer insights tracker
+                                        </p><ul><li>User research and findings template
                                         </li>
-                                        <li><em>Findings to actionable insights</em> deck
+                                        <li><em>Research insights and recommendations</em> deck
                                         </li></ul>
                                         <p></p>
                                         <p><a href="">Learn more</a></p>
@@ -191,14 +182,14 @@ layout: default
                                   <div class="views-field views-field-field-article-date">          <div class="field-content">17 Feb 2021</div>
                                   </div> -->
                                   <div class="views-field views-field-title">          
-                                      <span class="field-content"><a href="#" hreflang="en">Deliver on an idea quickly while meeting business and customer needs</a></span>
+                                      <span class="field-content"><a href="#" hreflang="en">Win stakeholder support by aligning business and customer needs</a></span>
                                   </div>
                                   <div class="views-field views-field-field-deck">          
-                                    <div class="field-content"><p>Align business and customer needs with your solution so you can build with confidence.</p>
+                                    <div class="field-content"><p>Integrate business and customer needs in your design so you can get the support you need to move forwards.</p>
                                         <p><strong>Output:</strong>
-                                        </p><ul><li>Customer journey map
+                                        </p><ul><li>Project context deck
                                         </li>
-                                        <li>design and development plan
+                                        <li>Stakeholder engagement plan
                                         </li></ul>
                                         <p></p>
                                         <p><a href="">Learn more</a></p>
