@@ -31,12 +31,12 @@ layout: default
 <p>Cost: Free</p>
 <p>Eligibility: Available to NSW employees only. working (or soon working on) a live project.</p>
 <p><a href="#" class="nsw-text-link">Explore the workshops</a></p>
+<h2>Workshops</h2>
                   </div>
                   </div>
                 </div>
 						  </div>
               <div class="nsw-row">
-<h2>Workshops</h2>
               <div class="nsw-grid">
               <div class="article-listing__wrapper">
 <div class="article-listing__cards">
