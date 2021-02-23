@@ -11,7 +11,7 @@ layout: default
               <div class="nsw-row nsw-m-bottom-sm">
 						    <div class="nsw-col nsw-col-md-8">
 
-                <p class="nsw-intro">Learn how to apply proven human centred design techniques and methods to accelerate your project delivery. </p>
+                <p class="nsw-intro">Learn how to apply proven research techniques and methods to accelerate your project delivery. </p>
                 <p>Run by the NSW Design Service team, you’ll get the tools and resources to solve your challenge and deliver better solutions for your customers and sponsors.</p>
 
                 <h2>What you'll get</h2>
@@ -105,9 +105,9 @@ layout: default
                               </div>            <div class="views-field views-field-field-deck">          
                               <div class="field-content"><p>Get your solution into customers hands fast to improve their experience </p>
                               <p><strong>Output:</strong>
-                              </p><ul><li>Estimate of project implementation costs
+                              </p><ul><li>Action plan to validate your idea
                               </li>
-                              <li>User insights action plan
+                              <li>Discussion guide for customers
                               </li></ul>
                               <p></p>
                               <p><a href="">Learn more</a></p>
