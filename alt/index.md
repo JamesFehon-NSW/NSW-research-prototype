@@ -31,9 +31,9 @@ layout: default
                   <div class="nsw-callout">
                     <div class="nsw-callout__content">
                     <h4 class="nsw-callout__title">Details</h4>
-                    <p><strong>Time:</strong>one day workshop
+                    <p><strong>Time:</strong> One day workshop
                     </p>
-                    <p><strong>Cost:</strong> free</p>
+                    <p><strong>Cost:</strong> Free</p>
                     <p><strong>Eligibility:</strong> NSW government teams who have a challenge or problem ready to start work on.
                     </p>
                     <p><a href="#" class="nsw-text-link">Explore the workshops</a></p>
