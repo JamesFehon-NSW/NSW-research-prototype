@@ -169,7 +169,7 @@ layout: default
 
                               <picture>
 
-                                    <img class="card-full__image" src="https://live.staticflickr.com/65535/47687770652_934d5c1160.jpg"  style="width:362px" alt="Group of people working at office desk" typeof="foaf:Image">
+                                    <img class="card-full__image" src="https://live.staticflickr.com/65535/46824082655_7542e1dae1.jpg"  style="width:362px" alt="Group of people working at office desk" typeof="foaf:Image">
                               </picture>
 
                                 </div>
