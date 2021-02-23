@@ -39,7 +39,6 @@ layout: default
               <div class="nsw-row">
               						    <div class="nsw-col">
                               <h2>Workshops</h2>  
-              <div class="nsw-grid">
               <div class="article-listing__wrapper">
 <div class="article-listing__cards">
 
@@ -282,7 +281,7 @@ layout: default
 </div>
 
                               </div>
-              </div>              
+              
 
               </div>
 
