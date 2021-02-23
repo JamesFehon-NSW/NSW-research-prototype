@@ -27,9 +27,9 @@ layout: default
                   <div class="nsw-callout">
                     <div class="nsw-callout__content">
                     <h4 class="nsw-callout__title">Workshop details</h4>
-                    <p>Duration: 1 day + 1 hour wrap-up</p>
-                    <p>Cost: Free</p>
-                    <p>Eligibility: Available to NSW employees only. working (or soon working on) a live project.</p>
+                    <p><strong>Duration:</strong> 1 day + 1 hour wrap-up</p>
+                    <p><strong>Cost:</strong> Free</p>
+                    <p><strong>Eligibility:</strong> Available to NSW employees only. working (or soon working on) a live project.</p>
                     <p><a href="#" class="nsw-text-link">Explore the workshops</a></p>
                     </div>
                   </div>
