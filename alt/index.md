@@ -36,39 +36,14 @@ layout: default
                 </div>
 						  </div>
               <div class="nsw-row">
-
+<h2>Workshops</h2>
               <div class="nsw-grid">
               <div class="article-listing__wrapper">
 <div class="article-listing__cards">
 
-            <h3 class="article-listing__title-h3 feature-h3">Featured blog</h3>
-              <div class="article-listing__item-line-wrapper">
-  <div class="views-row">
-  <div class="views-field views-field-card-image">          <div class="field-content">
+            <!-- <h3 class="article-listing__title-h3 feature-h3">Featured blog</h3> -->
 
-<picture>
-      <source srcset="/sites/default/files/styles/card_full_lg_x1/public/2020-10/Minister-Dominello-presenting.jpg?h=ee11da7d&amp;itok=_ciBJQE_ 1x, /sites/default/files/styles/card_full_lg_x2/public/2020-10/Minister-Dominello-presenting.jpg?h=ee11da7d&amp;itok=PZTJbXZC 2x" media="(min-width: 1280px)" type="image/jpeg">
-  <source srcset="/sites/default/files/styles/card_full_md_x1/public/2020-10/Minister-Dominello-presenting.jpg?h=ee11da7d&amp;itok=a3hfIcXZ 1x, /sites/default/files/styles/card_full_md_x2/public/2020-10/Minister-Dominello-presenting.jpg?h=ee11da7d&amp;itok=0uPIRdMk 2x" media="(min-width: 768px)" type="image/jpeg">
-  <source srcset="/sites/default/files/styles/card_x1/public/2020-10/Minister-Dominello-presenting.jpg?h=ee11da7d&amp;itok=GN3SlwGI 1x, /sites/default/files/styles/card_x2/public/2020-10/Minister-Dominello-presenting.jpg?h=ee11da7d&amp;itok=6TNNmqWI 2x" type="image/jpeg">
-      <img class="card-full__image" src="/sites/default/files/styles/card_x1/public/2020-10/Minister-Dominello-presenting.jpg?h=ee11da7d&amp;itok=GN3SlwGI" alt="A crowd of people watching a presentation" typeof="foaf:Image">
-
-</picture>
-
-
-
-
-</div>
-</div>                  <div class="detail-wrapper">
-<div class="views-field views-field-field-article-category">          <div class="field-content">What we’re working on</div>
-</div>            <div class="views-field views-field-field-article-author">          <div class="field-content">Jessica Duong</div>
-</div>            <div class="views-field views-field-field-article-date">          <div class="field-content">30 Mar 2020</div>
-</div>            <div class="views-field views-field-title">          <span class="field-content"><a href="/consolidation/blog/minister-dominello-launches-nswgovau-public-beta" hreflang="en">Minister Dominello launches nsw.gov.au Public Beta</a></span>
-</div>            <div class="views-field views-field-field-deck">          <div class="field-content"><p>The nsw.gov.au showcase included the latest user testing results, the project roadmap and a panel session with…</p></div>
-</div>          </div>
-
-</div>
-  </div>
-            <h3 class="article-listing__title-h3">Latest blog updates</h3>
+            <!-- <h3 class="article-listing__title-h3">Latest blog updates</h3> -->
   <div class="views-row">
 <div class="views-field views-field-card-image">          <div class="field-content">
 
