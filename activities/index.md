@@ -6,14 +6,11 @@ layout: default
       <div class="nsw-row nsw-m-bottom-sm">
 					<div class="nsw-col">
               <h1>Activity hub</h1>
+              <p class="nsw-intro">Level up your project and deliver outcomes that make an impact. The activities are contributed by experts, tested for government use, and integrate into your workflow.</p>
+
           </div>
 			</div>
 <div class="nsw-row nsw-m-bottom-sm">
-<div class="nsw-col nsw-col-md-8">
-
-      <p class="nsw-intro">Level up your project and deliver outcomes that make an impact. The activities are contributed by experts, tested for government use, and integrate into your workflow.</p>
-
-  </div>
   <div class="nsw-col nsw-col-md-4">
     <aside class="nsw-col fix-sidebar-first search-grid__filters">
       <p><small>Showing <span class="rows-length">24</span> of 33 consultations</small></p>
@@ -104,166 +101,191 @@ layout: default
 
     </aside>
   </div>
+  <div class="nsw-col nsw-col-md-8">
+
+
+
+
+
+
+  <div class="nsw-row">
+                 <div class="nsw-col">
+                  <h2>Activities</h2>  
+
+                  <div class="article-listing__wrapper">
+                  <div class="article-listing__cards">
+
+                              <!-- <h3 class="article-listing__title-h3 feature-h3">Featured blog</h3> -->
+
+                              <!-- <h3 class="article-listing__title-h3">Latest blog updates</h3> -->
+
+                  <div class="views-row">
+                    <div class="views-field views-field-card-image">
+                              <div class="field-content">
+
+                  <picture>
+
+                        <img class="card-full__image" src="https://live.staticflickr.com/65535/46824082875_5db1ce0f60.jpg"  style="width:362px" alt="Group of people working at office desk" typeof="foaf:Image">
+                  </picture>
+
+                    </div>
+                    </div>                  
+                    <div class="detail-wrapper">
+                      <div class="views-field views-field-field-article-category">          
+                        <div class="field-content">Workshop</div>
+                      </div>
+                      <!-- <div class="views-field views-field-field-article-author">          <div class="field-content">Maria Leonardis and Jennifer Weiley</div>
+                      </div>
+                      <div class="views-field views-field-field-article-date">          <div class="field-content">17 Feb 2021</div>
+                      </div> -->
+                      <div class="views-field views-field-title">          
+                          <span class="field-content"><a href="#" hreflang="en">De-risk your project before building commences</a></span>
+                      </div>
+                      <div class="views-field views-field-field-deck">          
+                        <div class="field-content"><p>Learn how to use early user research to minimise risk later in the project.</p>
+                            <p><strong>Output:</strong>
+                            </p><ul><li>User research and engagement plan
+                            </li>
+                            <li>Estimate of costs for your user research plan
+                            </li></ul>
+                            <p></p>
+                            <p><a href="">Learn more</a></p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+
+
+
+                  <div class="views-row">
+                    <div class="views-field views-field-card-image">          <div class="field-content">
+
+                  <picture>
+                  <img class="card-full__image" src="https://live.staticflickr.com/65535/49280156318_bb00bc9263.jpg" style="width:362px" alt="Woman typing on laptop" typeof="foaf:Image">
+
+
+                  </picture>
+
+                    </div>
+                    </div>                  
+                    <div class="detail-wrapper">
+                      <div class="views-field views-field-field-article-category">          
+                        <div class="field-content">Workshop</div>
+                      </div>
+                      <!-- <div class="views-field views-field-field-article-author">          <div class="field-content">Maria Leonardis and Jennifer Weiley</div>
+                      </div>
+                      <div class="views-field views-field-field-article-date">          <div class="field-content">17 Feb 2021</div>
+                      </div> -->
+                      <div class="views-field views-field-title">          
+                          <span class="field-content"><a href="#" hreflang="en">Get the most from your investment by validating ideas fast </a></span>
+                      </div>
+                      <div class="views-field views-field-field-deck">          
+                        <div class="field-content"><p>See how getting your initial solution into customers hands early saves time and costs down the track.</p>
+                            <p><strong>Output:</strong>
+                            </p><ul><li>Testing plan to validate your idea
+                            </li>
+                            <li>Discussion guide for customers
+                            </li></ul>
+                            <p></p>
+                            <p><a href="">Learn more</a></p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+
+
+
+                  <div class="views-row">
+                    <div class="views-field views-field-card-image">          <div class="field-content">
+
+                  <picture>
+                  <img class="card-full__image" src="https://live.staticflickr.com/65535/46824080955_7b8285f034.jpg" style="width:362px" alt="Woman typing on laptop" typeof="foaf:Image">
+
+                  </picture>
+
+                    </div>
+                    </div>                  
+                    <div class="detail-wrapper">
+                      <div class="views-field views-field-field-article-category">          
+                        <div class="field-content">Workshop</div>
+                      </div>
+                      <!-- <div class="views-field views-field-field-article-author">          <div class="field-content">Maria Leonardis and Jennifer Weiley</div>
+                      </div>
+                      <div class="views-field views-field-field-article-date">          <div class="field-content">17 Feb 2021</div>
+                      </div> -->
+                      <div class="views-field views-field-title">          
+                          <span class="field-content"><a href="#" hreflang="en">Fast track delivery by using customer insights</a></span>
+                      </div>
+                      <div class="views-field views-field-field-deck">          
+                        <div class="field-content"><p>Learn how to turn your customer insights into actionable improvements for your product or service.</p>
+                            <p><strong>Output:</strong>
+                            </p><ul><li>User research and findings template
+                            </li>
+                            <li><em>Research insights and recommendations</em> deck
+                            </li></ul>
+                            <p></p>
+                            <p><a href="">Learn more</a></p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+
+
+
+                  <div class="views-row">
+                    <div class="views-field views-field-card-image">          <div class="field-content">
+
+                    <picture>
+
+                          <img class="card-full__image" src="https://live.staticflickr.com/65535/46824082655_7542e1dae1.jpg"  style="width:362px" alt="Group of people working at office desk" typeof="foaf:Image">
+                    </picture>
+
+                    </div>
+                    </div>                  
+                    <div class="detail-wrapper">
+                      <div class="views-field views-field-field-article-category">          
+                        <div class="field-content">Workshop</div>
+                      </div>
+                      <!-- <div class="views-field views-field-field-article-author">          <div class="field-content">Maria Leonardis and Jennifer Weiley</div>
+                      </div>
+                      <div class="views-field views-field-field-article-date">          <div class="field-content">17 Feb 2021</div>
+                      </div> -->
+                      <div class="views-field views-field-title">          
+                          <span class="field-content"><a href="#" hreflang="en">Win stakeholder support by aligning business and customer needs</a></span>
+                      </div>
+                      <div class="views-field views-field-field-deck">          
+                        <div class="field-content"><p>Integrate business and customer needs in your design so you can get the support you need to move forwards.</p>
+                            <p><strong>Output:</strong>
+                            </p><ul><li>Project context deck
+                            </li>
+                            <li>Stakeholder engagement plan
+                            </li></ul>
+                            <p></p>
+                            <p><a href="">Learn more</a></p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+
+                </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </div>
+
 </div>
-              <div class="nsw-row">
-              						   <div class="nsw-col">
-                              <h2>Workshops</h2>  
 
-                              <div class="article-listing__wrapper">
-                              <div class="article-listing__cards">
-
-                                          <!-- <h3 class="article-listing__title-h3 feature-h3">Featured blog</h3> -->
-
-                                          <!-- <h3 class="article-listing__title-h3">Latest blog updates</h3> -->
-
-                              <div class="views-row">
-                                <div class="views-field views-field-card-image">
-                                          <div class="field-content">
-
-                              <picture>
-
-                                    <img class="card-full__image" src="https://live.staticflickr.com/65535/46824082875_5db1ce0f60.jpg"  style="width:362px" alt="Group of people working at office desk" typeof="foaf:Image">
-                              </picture>
-
-                                </div>
-                                </div>                  
-                                <div class="detail-wrapper">
-                                  <div class="views-field views-field-field-article-category">          
-                                    <div class="field-content">Workshop</div>
-                                  </div>
-                                  <!-- <div class="views-field views-field-field-article-author">          <div class="field-content">Maria Leonardis and Jennifer Weiley</div>
-                                  </div>
-                                  <div class="views-field views-field-field-article-date">          <div class="field-content">17 Feb 2021</div>
-                                  </div> -->
-                                  <div class="views-field views-field-title">          
-                                      <span class="field-content"><a href="#" hreflang="en">De-risk your project before building commences</a></span>
-                                  </div>
-                                  <div class="views-field views-field-field-deck">          
-                                    <div class="field-content"><p>Learn how to use early user research to minimise risk later in the project.</p>
-                                        <p><strong>Output:</strong>
-                                        </p><ul><li>User research and engagement plan
-                                        </li>
-                                        <li>Estimate of costs for your user research plan
-                                        </li></ul>
-                                        <p></p>
-                                        <p><a href="">Learn more</a></p>
-                                    </div>
-                                  </div>
-                                </div>
-                              </div>
-
-
-
-                              <div class="views-row">
-                                <div class="views-field views-field-card-image">          <div class="field-content">
-
-                              <picture>
-                              <img class="card-full__image" src="https://live.staticflickr.com/65535/49280156318_bb00bc9263.jpg" style="width:362px" alt="Woman typing on laptop" typeof="foaf:Image">
-
-
-                              </picture>
-
-                                </div>
-                                </div>                  
-                                <div class="detail-wrapper">
-                                  <div class="views-field views-field-field-article-category">          
-                                    <div class="field-content">Workshop</div>
-                                  </div>
-                                  <!-- <div class="views-field views-field-field-article-author">          <div class="field-content">Maria Leonardis and Jennifer Weiley</div>
-                                  </div>
-                                  <div class="views-field views-field-field-article-date">          <div class="field-content">17 Feb 2021</div>
-                                  </div> -->
-                                  <div class="views-field views-field-title">          
-                                      <span class="field-content"><a href="#" hreflang="en">Get the most from your investment by validating ideas fast </a></span>
-                                  </div>
-                                  <div class="views-field views-field-field-deck">          
-                                    <div class="field-content"><p>See how getting your initial solution into customers hands early saves time and costs down the track.</p>
-                                        <p><strong>Output:</strong>
-                                        </p><ul><li>Testing plan to validate your idea
-                                        </li>
-                                        <li>Discussion guide for customers
-                                        </li></ul>
-                                        <p></p>
-                                        <p><a href="">Learn more</a></p>
-                                    </div>
-                                  </div>
-                                </div>
-                              </div>
-
-
-
-                              <div class="views-row">
-                                <div class="views-field views-field-card-image">          <div class="field-content">
-
-                              <picture>
-                              <img class="card-full__image" src="https://live.staticflickr.com/65535/46824080955_7b8285f034.jpg" style="width:362px" alt="Woman typing on laptop" typeof="foaf:Image">
-
-                              </picture>
-
-                                </div>
-                                </div>                  
-                                <div class="detail-wrapper">
-                                  <div class="views-field views-field-field-article-category">          
-                                    <div class="field-content">Workshop</div>
-                                  </div>
-                                  <!-- <div class="views-field views-field-field-article-author">          <div class="field-content">Maria Leonardis and Jennifer Weiley</div>
-                                  </div>
-                                  <div class="views-field views-field-field-article-date">          <div class="field-content">17 Feb 2021</div>
-                                  </div> -->
-                                  <div class="views-field views-field-title">          
-                                      <span class="field-content"><a href="#" hreflang="en">Fast track delivery by using customer insights</a></span>
-                                  </div>
-                                  <div class="views-field views-field-field-deck">          
-                                    <div class="field-content"><p>Learn how to turn your customer insights into actionable improvements for your product or service.</p>
-                                        <p><strong>Output:</strong>
-                                        </p><ul><li>User research and findings template
-                                        </li>
-                                        <li><em>Research insights and recommendations</em> deck
-                                        </li></ul>
-                                        <p></p>
-                                        <p><a href="">Learn more</a></p>
-                                    </div>
-                                  </div>
-                                </div>
-                              </div>
-
-
-
-                              <div class="views-row">
-                                <div class="views-field views-field-card-image">          <div class="field-content">
-
-                              <picture>
-
-                                    <img class="card-full__image" src="https://live.staticflickr.com/65535/46824082655_7542e1dae1.jpg"  style="width:362px" alt="Group of people working at office desk" typeof="foaf:Image">
-                              </picture>
-
-                                </div>
-                                </div>                  
-                                <div class="detail-wrapper">
-                                  <div class="views-field views-field-field-article-category">          
-                                    <div class="field-content">Workshop</div>
-                                  </div>
-                                  <!-- <div class="views-field views-field-field-article-author">          <div class="field-content">Maria Leonardis and Jennifer Weiley</div>
-                                  </div>
-                                  <div class="views-field views-field-field-article-date">          <div class="field-content">17 Feb 2021</div>
-                                  </div> -->
-                                  <div class="views-field views-field-title">          
-                                      <span class="field-content"><a href="#" hreflang="en">Win stakeholder support by aligning business and customer needs</a></span>
-                                  </div>
-                                  <div class="views-field views-field-field-deck">          
-                                    <div class="field-content"><p>Integrate business and customer needs in your design so you can get the support you need to move forwards.</p>
-                                        <p><strong>Output:</strong>
-                                        </p><ul><li>Project context deck
-                                        </li>
-                                        <li>Stakeholder engagement plan
-                                        </li></ul>
-                                        <p></p>
-                                        <p><a href="">Learn more</a></p>
-                                    </div>
-                                  </div>
-                                </div>
-                              </div>
-
-                            </div>
                           </div>
                         </div>
