@@ -15,17 +15,94 @@ layout: default
 
   </div>
   <div class="nsw-col nsw-col-md-4">
-    <div class="nsw-callout">
-      <div class="nsw-callout__content">
-      <h4 class="nsw-callout__title">Details</h4>
-      <p><strong>Time:</strong> One day workshop
-      </p>
-      <p><strong>Cost:</strong> Free</p>
-      <p><strong>Eligibility:</strong> NSW government teams who have a challenge or problem ready to start work on.
-      </p>
-      <p><a href="#" class="nsw-text-link">Explore the workshops</a></p>
+    <aside class="nsw-col fix-sidebar-first search-grid__filters">
+      <p><small>Showing <span class="rows-length">24</span> of 33 consultations</small></p>
+      <form class="views-exposed-form search-filters nsw-container" novalidate="novalidate" data-drupal-selector="views-exposed-form-consultations-listing" action="/consultations" method="get" id="views-exposed-form-consultations-listing" accept-charset="UTF-8" _lpchecked="1">
+
+      <div class="js-form-item form__item js-form-type-textfield form__item--textfield js-form-item-keys form__item--keys form__item--no-label">
+        <input placeholder="I'm looking for" class="nsw-form-input--search form-text nsw-form-input" data-drupal-selector="edit-keys" type="text" id="edit-keys" name="keys" value="" size="30" maxlength="128">
+
+        </div>
+      <fieldset class="search-filter js-form-item form__item js-form-wrapper form__wrapper nsw-form-fieldset" data-drupal-selector="edit-fieldset-dates" id="edit-fieldset-dates">
+      <legend class="sr-only">Select dates</legend>
+      <h2 class="search-filter__title">
+      <button class="search-filter__toggle" aria-expanded="false" type="button">Select dates <svg class="nsw-icon search-filter__icon"><use xlink:href="#chevron"></use></svg></button>
+      </h2>
+      <div class="fieldset__wrapper search-filter__filters" aria-hidden="true">
+
+      <div class="js-form-item form__item js-form-type-date form__item--date js-form-item-field-consultation-start-date-value form__item--field-consultation-start-date-value form__item--no-label">
+        <input type="date" data-drupal-selector="edit-field-consultation-start-date-value" data-drupal-date-format="Y-m-d" id="edit-field-consultation-start-date-value" name="field_consultation_start_date_value" value="" size="30" class="form-date nsw-form-input">
+
+        </div>
+
+      <div class="js-form-item form__item js-form-type-date form__item--date js-form-item-start-date-max form__item--start-date-max form__item--no-label">
+        <input type="date" data-drupal-selector="edit-start-date-max" data-drupal-date-format="Y-m-d" id="edit-start-date-max" name="start_date_max" value="" size="30" class="form-date nsw-form-input">
+
+        </div>
+
+          </div>
+      </fieldset>
+      <fieldset class="search-filter js-form-item form__item js-form-wrapper form__wrapper nsw-form-fieldset" data-drupal-selector="edit-fieldset-region" id="edit-fieldset-region">
+      <legend class="sr-only">What's happening around me</legend>
+      <h2 class="search-filter__title">
+      <button class="search-filter__toggle" aria-expanded="false" type="button">What's happening around me <svg class="nsw-icon search-filter__icon"><use xlink:href="#chevron"></use></svg></button>
+      </h2>
+      <div class="fieldset__wrapper search-filter__filters" aria-hidden="true">
+        <div class="form-checkboxes">
+      <div class="nsw-form-checkbox js-form-item form__item js-form-type-checkbox form__item--checkbox js-form-item-region-178 form__item--region-178 search-filter__checkbox">
+        <input data-drupal-selector="edit-region-178" type="checkbox" id="edit-region-178" name="region[178]" value="178" class="form-checkbox nsw-form-checkbox__input">
+
+        <label class="nsw-form-checkbox__label option nsw-form-label" for="edit-region-178">
+      Central Coast
+      </label>
       </div>
-    </div>
+
+
+      <div class="nsw-form-checkbox js-form-item form__item js-form-type-checkbox form__item--checkbox js-form-item-region-188 form__item--region-188 search-filter__checkbox">
+        <input data-drupal-selector="edit-region-188" type="checkbox" id="edit-region-188" name="region[188]" value="188" class="form-checkbox nsw-form-checkbox__input">
+
+        <label class="nsw-form-checkbox__label option nsw-form-label" for="edit-region-188">
+      Western Sydney
+      </label>
+      </div>
+      </div>
+
+          </div>
+      </fieldset>
+      <fieldset class="search-filter js-form-item form__item js-form-wrapper form__wrapper nsw-form-fieldset" data-drupal-selector="edit-fieldset-topics" id="edit-fieldset-topics">
+      <legend class="sr-only">Select topics</legend>
+      <h2 class="search-filter__title">
+      <button class="search-filter__toggle" aria-expanded="false" type="button">Select topics <svg class="nsw-icon search-filter__icon"><use xlink:href="#chevron"></use></svg></button>
+      </h2>
+      <div class="fieldset__wrapper search-filter__filters" aria-hidden="true">
+        <div class="form-checkboxes">
+      <div class="nsw-form-checkbox js-form-item form__item js-form-type-checkbox form__item--checkbox js-form-item-topics-165 form__item--topics-165 search-filter__checkbox">
+        <input data-drupal-selector="edit-topics-165" type="checkbox" id="edit-topics-165" name="topics[165]" value="165" class="form-checkbox nsw-form-checkbox__input">
+
+        <label class="nsw-form-checkbox__label option nsw-form-label" for="edit-topics-165">
+      Community Services
+      </label>
+      </div>
+
+
+      <div class="nsw-form-checkbox js-form-item form__item js-form-type-checkbox form__item--checkbox js-form-item-topics-177 form__item--topics-177 search-filter__checkbox">
+        <input data-drupal-selector="edit-topics-177" type="checkbox" id="edit-topics-177" name="topics[177]" value="177" class="form-checkbox nsw-form-checkbox__input">
+
+        <label class="nsw-form-checkbox__label option nsw-form-label" for="edit-topics-177">
+      Transport
+      </label>
+      </div>
+      </div>
+
+          </div>
+      </fieldset>
+      <div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form__wrapper" id="edit-actions"><input data-drupal-selector="edit-submit-consultations" type="submit" id="edit-submit-consultations" value="Apply" class="button js-form-submit form-submit nsw-button nsw-button--primary">
+      </div>
+
+
+      </form>
+
+    </aside>
   </div>
 </div>
               <div class="nsw-row">
