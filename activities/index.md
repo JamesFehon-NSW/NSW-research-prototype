@@ -65,7 +65,8 @@ layout: default
                               <h2 class="nsw-card__title">
                                 <a href="#" class="nsw-card__link">Plan your project kick-off</a>
                               </h2>
-                              <p class="nsw-card__copy">All services relating to maritime and recreation in NSW</p>
+                              <p class="nsw-card__copy">Build consensus on objectives, timing, scope, and decision making.</p>
+                              <p class="nsw-card__copy">By Customer Experience Unit Partnerships team</p>
                                 <svg class="nsw-icon nsw-card__icon" focusable="false" aria-hidden="true">
                                     <use xlink:href="#arrow"></use>
                                 </svg>
@@ -131,12 +132,12 @@ layout: default
                                     </div>
                                     <div class="views-field views-field-field-deck">
                                         <div class="field-content">
-                                            <p>Build consensus on objectives, timing, scope, and decision making.</p>
+                                            <p></p>
 
                                         </div>
                                     </div>
                                     <div class="views-field views-field-field-article-category">
-                                        <div class="field-content">By Customer Experience Unit Partnerships team</div>
+                                        <div class="field-content"></div>
                                         <p><a href="">Read more</a></p>
                                     </div>
                                 </div>
