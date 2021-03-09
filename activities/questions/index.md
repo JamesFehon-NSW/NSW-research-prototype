@@ -70,6 +70,7 @@ layout: default
 
         </div>
         <div class="nsw-col">
+            <h3>Video walkthrough</h3>
             <div style="margin: 20px auto;max-width: 700px;"><div class="video-wrap">
 <a href="#">
 <div class="play-btn">
@@ -78,15 +79,18 @@ layout: default
 </a>
 <img class="placeholder" src="https://live.staticflickr.com/65535/46824082875_5db1ce0f60.jpg" alt="landscape">
 </div></div>
-<p>[Video walkthrough]</p>
         </div>
         <div class="nsw-col nsw-col-md-3" style="background: whitesmoke;">
             <h2>Helpful activities to do before</h2>
-            <p><a href="#">Project kick-off canvas</a></p>
+            <ul>
+                <li><a href="#">Project kick-off canvas</a></li>
+            </ul>
         </div>
         <div class="nsw-col nsw-col-md-3 nsw-offset-md-6" style="background: whitesmoke;">
             <h2>Helpful activities to do next</h2>
-            <p><a href="#">Recruitment Brainstorming</a></p>
+            <ul>
+                <li><a href="#">Recruitment Brainstorming</a></li>
+            </ul>
         </div>
 
     </div>
