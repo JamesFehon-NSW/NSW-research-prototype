@@ -55,7 +55,7 @@ layout: default
                 <div class="nsw-col">
                     <h2>Activities</h2>
                 </div>
-                <div class="nsw-col nsw-col-md-4">
+                <div class="nsw-col nsw-col-md-6">
                     <div class="nsw-card nsw-card--content">
                           <div class="nsw-card__content">
                               <h2 class="nsw-card__title">
@@ -72,7 +72,7 @@ layout: default
 
 
 
-                <div class="nsw-col nsw-col-md-4">
+                <div class="nsw-col nsw-col-md-6">
                     <div class="nsw-card nsw-card--content">
                           <div class="nsw-card__content">
                               <h2 class="nsw-card__title">
@@ -93,7 +93,7 @@ layout: default
 
 
 
-                <div class="nsw-col nsw-col-md-4">
+                <div class="nsw-col nsw-col-md-6">
                     <div class="nsw-card nsw-card--content">
                           <div class="nsw-card__content">
                               <h2 class="nsw-card__title">
@@ -115,7 +115,7 @@ layout: default
 
 
 
-                <div class="nsw-col nsw-col-md-4">
+                <div class="nsw-col nsw-col-md-6">
                     <div class="nsw-card nsw-card--content">
                           <div class="nsw-card__content">
                               <h2 class="nsw-card__title">
@@ -133,7 +133,7 @@ layout: default
                     </div>
                 </div>
 
-                <div class="nsw-col nsw-col-md-4">
+                <div class="nsw-col nsw-col-md-6">
                     <div class="nsw-card nsw-card--content">
                           <div class="nsw-card__content">
                               <h2 class="nsw-card__title">
@@ -151,7 +151,7 @@ layout: default
                     </div>
                 </div>
 
-                <div class="nsw-col nsw-col-md-4">
+                <div class="nsw-col nsw-col-md-6">
                     <div class="nsw-card nsw-card--content">
                           <div class="nsw-card__content">
                               <h2 class="nsw-card__title">
@@ -169,7 +169,7 @@ layout: default
                     </div>
                 </div>
 
-                <div class="nsw-col nsw-col-md-4">
+                <div class="nsw-col nsw-col-md-6">
                     <div class="nsw-card nsw-card--content">
                           <div class="nsw-card__content">
                               <h2 class="nsw-card__title">
@@ -187,7 +187,7 @@ layout: default
                     </div>
                 </div>
 
-                <div class="nsw-col nsw-col-md-4">
+                <div class="nsw-col nsw-col-md-6">
                     <div class="nsw-card nsw-card--content">
                           <div class="nsw-card__content">
                               <h2 class="nsw-card__title">
@@ -205,7 +205,7 @@ layout: default
                     </div>
                 </div>
 
-                <div class="nsw-col nsw-col-md-4">
+                <div class="nsw-col nsw-col-md-6">
                     <div class="nsw-card nsw-card--content">
                           <div class="nsw-card__content">
                               <h2 class="nsw-card__title">
@@ -223,7 +223,7 @@ layout: default
                     </div>
                 </div>
 
-                <div class="nsw-col nsw-col-md-4">
+                <div class="nsw-col nsw-col-md-6">
                     <div class="nsw-card nsw-card--content">
                           <div class="nsw-card__content">
                               <h2 class="nsw-card__title">
@@ -241,7 +241,7 @@ layout: default
                     </div>
                 </div>
 
-                <div class="nsw-col nsw-col-md-4">
+                <div class="nsw-col nsw-col-md-6">
                     <div class="nsw-card nsw-card--content">
                           <div class="nsw-card__content">
                               <h2 class="nsw-card__title">
