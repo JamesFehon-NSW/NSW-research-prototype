@@ -25,11 +25,11 @@ layout: default
     <div class="nsw-row nsw-m-bottom-sm">
 
         <div class="nsw-col nsw-col-md-8 nsw-offset-md-2">
-            <img src="Generating-research-questions.png" alt="" style="width:100%">
+            <a href="https://miro.com/app/board/o9J_lRUZ_VE=/"><img src="Generating-research-questions.png" alt="" style="width:100%"></a>
             <p>By Website Consolidation, NSW.Gov.au</p>
-            <p>         <a href="#" class="nsw-button nsw-button--primary">
+            <p style="text-align: center;margin-top:0">         <a href="https://miro.com/app/board/o9J_lRUZ_VE=/" class="nsw-button nsw-button--primary">
           Preview
-        </a>         <a href="#" class="nsw-button nsw-button--primary">
+        </a>         <a href="https://miro.com/app/board/o9J_lRUZ_VE=/" class="nsw-button nsw-button--primary">
           Use
         </a>         <a href="#" class="nsw-button nsw-button--primary">
           Share
@@ -38,7 +38,7 @@ layout: default
 
         <div class="nsw-col nsw-col-md-6">
             <p>Projects are full of unknowns when you start. By calling them out early and prioritising the ones with the biggest risk you your project, you can decide what you need to know first, and what can wait until later. </p>
-            <p>Stay on strategy: </p>
+            <h3>Stay on strategy: </h3>
             <p>
                 When you turn unknowns about your customers into things you know for certain, you’re improving your chances of building the right solution to your users problem.
             </p>
