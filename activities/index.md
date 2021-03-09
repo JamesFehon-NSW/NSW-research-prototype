@@ -34,11 +34,13 @@ layout: default
                     </div>
                     <div>
                         <h2 style="margin-top:1rem;">All activities</h2>
-                        <ul><li>By Phase</li>
-                        <li>Most popular</li>
-                        <li>Facilitation experience</li>
-                        <li>Activity time</li>
-                        <li>Outcome</li></ul>
+                        <ul>
+                            <li><a href="#">By Phase</a></li>
+                            <li><a href="#">Most popular</a></li>
+                            <li><a href="#">Facilitation experience</a></li>
+                            <li><a href="#">Activity time</a></li>
+                            <li><a href="#">Outcome</a></li>
+                        </ul>
 
                     </div>
 
