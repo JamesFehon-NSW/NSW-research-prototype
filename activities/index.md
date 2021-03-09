@@ -11,7 +11,7 @@ layout: default
         </div>
     </div>
     <div class="nsw-row nsw-m-bottom-sm">
-        <div class="nsw-col nsw-col-md-4">
+        <div class="nsw-col nsw-col-md-3">
             <aside class="nsw-col fix-sidebar-first search-grid__filters">
                 <p><small>Showing <span class="rows-length">11</span> of 11 activities</small></p>
                 <form class="views-exposed-form search-filters nsw-container" novalidate="novalidate" data-drupal-selector="views-exposed-form-consultations-listing" action="/consultations" method="get" id="views-exposed-form-consultations-listing" accept-charset="UTF-8" _lpchecked="1">
@@ -39,7 +39,7 @@ layout: default
 
             </aside>
         </div>
-        <div class="nsw-col nsw-col-md-8">
+        <div class="nsw-col nsw-col-md-9">
 
 
 
