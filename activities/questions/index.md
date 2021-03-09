@@ -29,40 +29,36 @@ layout: default
             <p>By Website Consolidation, NSW.Gov.au</p>
             <p> [Preview] [Use] [Share] </p>
         </div>
-        <div class="nsw-col">
-            <div class="nsw-row nsw-m-bottom-sm">
 
-                <div class="nsw-col nsw-col-md-6">
-                    <p>Projects are full of unknowns when you start. By calling them out early and prioritising the ones with the biggest risk you your project, you can decide what you need to know first, and what can wait until later. </p>
-                    <p>Stay on strategy: </p>
-                    <p>
-                        When you turn unknowns about your customers into things you know for certain, you’re improving your chances of building the right solution to your users problem.
+        <div class="nsw-col nsw-col-md-6">
+            <p>Projects are full of unknowns when you start. By calling them out early and prioritising the ones with the biggest risk you your project, you can decide what you need to know first, and what can wait until later. </p>
+            <p>Stay on strategy: </p>
+            <p>
+                When you turn unknowns about your customers into things you know for certain, you’re improving your chances of building the right solution to your users problem.
+            </p>
+        </div>
+        <div class="nsw-col nsw-col-md-6">
+            <div class="nsw-callout">
+                <div class="nsw-callout__content">
+                    <h4 class="nsw-callout__title">Who is this for</h4>
+                    <p>This is for <strong>teams or individuals</strong> who want to understand a challenge from the perspective of customers.
                     </p>
-                </div>
-                <div class="nsw-col nsw-col-md-6">
-                    <div class="nsw-callout">
-                                        <div class="nsw-callout__content">
-                                        <h4 class="nsw-callout__title">Who is this for</h4>
-                                        <p>This is for <strong>teams or individuals</strong> who want to understand a challenge from the perspective of customers.
-                                        </p>
-                                        <h4>What you'll get</h4>
-                                        <ul>
-                                            <li>
-                                                ✔ Instructions
-                                            </li>
-                                            <li>✔ Pro-tips
-                                            </li>
-                                            <li>✔ Examples
-                                            </li>
-                                            <li>✔ Walk through video
-                                            </li>
-                                        </ul>
-                                        <p>Use this:</p>
-                                        <p>Before the project starts to understand the scope of your research</p>
-                                        <p>During the project whenever you need to learn more from customer</p>
-                                        <p>After the project to evaluate how your solution</p>
-                        </div>
-                    </div>
+                    <h4>What you'll get</h4>
+                    <ul>
+                        <li>
+                            ✔ Instructions
+                        </li>
+                        <li>✔ Pro-tips
+                        </li>
+                        <li>✔ Examples
+                        </li>
+                        <li>✔ Walk through video
+                        </li>
+                    </ul>
+                    <p>Use this:</p>
+                    <p>Before the project starts to understand the scope of your research</p>
+                    <p>During the project whenever you need to learn more from customer</p>
+                    <p>After the project to evaluate how your solution</p>
                 </div>
             </div>
 
@@ -73,13 +69,17 @@ layout: default
 
 
 
+
             <p>[Video walkthrough]</p>
-            <p>Project kick-off canvas</p>
-            <p>Recruitment Brainstorming</p>
-
-
         </div>
-
+        <div class="nsw-col nsw-col-md-4">
+            <h2>Helpful activities to do before</h2>
+            <p><a href="#">Project kick-off canvas</a></p>
+        </div>
+        <div class="nsw-col nsw-col-md-4 nsw-col-offset-4">
+            <h2>Helpful activities to do next</h2>
+            <p><a href="#">Recruitment Brainstorming</a></p>
+        </div>
 
     </div>
 </div>
