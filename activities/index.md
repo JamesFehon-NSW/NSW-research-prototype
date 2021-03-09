@@ -74,17 +74,19 @@ layout: default
                     </div>
                 </div>
 
+
+
                 <div class="nsw-col nsw-col-md-4">
                     <div class="nsw-card nsw-card--content">
                           <div class="nsw-card__content">
                               <h2 class="nsw-card__title">
                                 <a href="#" class="nsw-card__link">
-                                    Boating, fishing and outdoors</a>
+                                    Prioritise customer opportunities, as a team</a>
                               </h2>
                               <p class="nsw-card__copy">
-                                  All services relating to maritime and recreation in NSW</p>
+                                  Agree on prioritisation and what opportunity will have the biggest customer impact for effort.</p>
                               <p class="nsw-card__copy">By
-                                  Customer Experience Unit Partnerships team</p>
+                                  Transport for NSW Digital Insights team</p>
                               <svg class="nsw-icon nsw-card__icon" focusable="false" aria-hidden="true">
                                   <use xlink:href="#arrow"></use>
                               </svg>
@@ -92,17 +94,20 @@ layout: default
                     </div>
                 </div>
 
+
+
+
                 <div class="nsw-col nsw-col-md-4">
                     <div class="nsw-card nsw-card--content">
                           <div class="nsw-card__content">
                               <h2 class="nsw-card__title">
                                 <a href="#" class="nsw-card__link">
-                                    Boating, fishing and outdoors</a>
+                                    Identify and manage risk</a>
                               </h2>
                               <p class="nsw-card__copy">
-                                  All services relating to maritime and recreation in NSW</p>
+                                  Anticipate risks so that you can solve for them while there’s still time.</p>
                               <p class="nsw-card__copy">By
-                                  Customer Experience Unit Partnerships team</p>
+                                  DRF Assurance</p>
                               <svg class="nsw-icon nsw-card__icon" focusable="false" aria-hidden="true">
                                   <use xlink:href="#arrow"></use>
                               </svg>
@@ -110,17 +115,21 @@ layout: default
                     </div>
                 </div>
 
+
+
+
+
                 <div class="nsw-col nsw-col-md-4">
                     <div class="nsw-card nsw-card--content">
                           <div class="nsw-card__content">
                               <h2 class="nsw-card__title">
                                 <a href="#" class="nsw-card__link">
-                                    Boating, fishing and outdoors</a>
+                                    Communicate with stakeholders</a>
                               </h2>
                               <p class="nsw-card__copy">
-                                  All services relating to maritime and recreation in NSW</p>
+                                  Build a comms plan for special projects or business as usual.</p>
                               <p class="nsw-card__copy">By
-                                  Customer Experience Unit Partnerships team</p>
+                                  nsw.gov.au web consolidation project team</p>
                               <svg class="nsw-icon nsw-card__icon" focusable="false" aria-hidden="true">
                                   <use xlink:href="#arrow"></use>
                               </svg>
@@ -255,132 +264,5 @@ layout: default
                 </div>
             </div>
 
-
-
-
-
-
-            <div class="nsw-row">
-                <div class="nsw-col">
-
-
-                    <div class="article-listing__wrapper">
-                        <div class="article-listing__cards">
-
-                            <!-- <h3 class="article-listing__title-h3 feature-h3">Featured blog</h3> -->
-
-                            <!-- <h3 class="article-listing__title-h3">Latest blog updates</h3> -->
-
-                            <div class="views-row">
-                                <div class="views-field views-field-card-image">
-                                    <div class="field-content">
-                                    </div>
-                                </div>
-                                <div class="detail-wrapper">
-
-                                    <div class="views-field views-field-title">
-                                        <span class="field-content">
-                                            <a href="#" hreflang="en"></a></span>
-                                    </div>
-                                    <div class="views-field views-field-field-deck">
-                                        <div class="field-content">
-                                            <p></p>
-
-                                        </div>
-                                    </div>
-                                    <div class="views-field views-field-field-article-category">
-                                        <div class="field-content"></div>
-                                        <p><a href="">Read more</a></p>
-                                    </div>
-                                </div>
-                            </div>
-
-
-
-
-                            <div class="views-row">
-                                <div class="views-field views-field-card-image">
-                                    <div class="field-content">
-                                    </div>
-                                </div>
-                                <div class="detail-wrapper">
-
-                                    <div class="views-field views-field-title">
-                                        <span class="field-content">
-                                            <a href="#" hreflang="en">Prioritise customer opportunities, as a team</a></span>
-                                    </div>
-                                    <div class="views-field views-field-field-deck">
-                                        <div class="field-content">
-                                            <p>Agree on prioritisation and what opportunity will have the biggest customer impact for effort.</p>
-
-                                        </div>
-                                    </div>
-                                    <div class="views-field views-field-field-article-category">
-                                        <div class="field-content">By Transport for NSW Digital Insights team</div>
-                                        <p><a href="">Read more</a></p>
-                                    </div>
-                                </div>
-                            </div>
-
-
-
-                            <div class="views-row">
-                                <div class="views-field views-field-card-image">
-                                    <div class="field-content">
-                                    </div>
-                                </div>
-                                <div class="detail-wrapper">
-
-                                    <div class="views-field views-field-title">
-                                        <span class="field-content">
-                                            <a href="#" hreflang="en">Identify and manage risk</a></span>
-                                    </div>
-                                    <div class="views-field views-field-field-deck">
-                                        <div class="field-content">
-                                            <p>Anticipate risks so that you can solve for them while there’s still time.</p>
-
-                                        </div>
-                                    </div>
-                                    <div class="views-field views-field-field-article-category">
-                                        <div class="field-content">By DRF Assurance</div>
-                                        <p><a href="">Read more</a></p>
-                                    </div>
-                                </div>
-                            </div>
-
-
-
-                            <div class="views-row">
-                                <div class="views-field views-field-card-image">
-                                    <div class="field-content">
-                                    </div>
-                                </div>
-                                <div class="detail-wrapper">
-
-                                    <div class="views-field views-field-title">
-                                        <span class="field-content">
-                                            <a href="#" hreflang="en">Communicate with stakeholders</a></span>
-                                    </div>
-                                    <div class="views-field views-field-field-deck">
-                                        <div class="field-content">
-                                            <p>Build a comms plan for special projects or business as usual.</p>
-
-                                        </div>
-                                    </div>
-                                    <div class="views-field views-field-field-article-category">
-                                        <div class="field-content">By nsw.gov.au web consolidation project team</div>
-                                        <p><a href="">Read more</a></p>
-                                    </div>
-                                </div>
-                            </div>
-
-                    </div>
-
-
-                </div>
-
-            </div>
-
-        </div>
 
     </div>
