@@ -63,7 +63,9 @@ layout: default
                                 <a href="#" class="nsw-card__link">Boating, fishing and outdoors</a>
                               </h2>
                               <p class="nsw-card__copy">All services relating to maritime and recreation in NSW</p>
-                              <i class="material-icons nsw-material-icons nsw-card__icon" focusable="false" aria-hidden="true">east</i>
+                                <svg class="nsw-icon nsw-card__icon" focusable="false" aria-hidden="true">
+                                    <use xlink:href="#arrow"></use>
+                                </svg>
                           </div>
                     </div>
                 </div>
@@ -75,7 +77,9 @@ layout: default
                                 <a href="#" class="nsw-card__link">Boating, fishing and outdoors</a>
                               </h2>
                               <p class="nsw-card__copy">All services relating to maritime and recreation in NSW</p>
-                              <i class="material-icons nsw-material-icons nsw-card__icon" focusable="false" aria-hidden="true">east</i>
+                              <svg class="nsw-icon nsw-card__icon" focusable="false" aria-hidden="true">
+                                  <use xlink:href="#arrow"></use>
+                              </svg>
                           </div>
                     </div>
                 </div>
@@ -87,7 +91,9 @@ layout: default
                                 <a href="#" class="nsw-card__link">Boating, fishing and outdoors</a>
                               </h2>
                               <p class="nsw-card__copy">All services relating to maritime and recreation in NSW</p>
-                              <i class="material-icons nsw-material-icons nsw-card__icon" focusable="false" aria-hidden="true">east</i>
+                              <svg class="nsw-icon nsw-card__icon" focusable="false" aria-hidden="true">
+                                  <use xlink:href="#arrow"></use>
+                              </svg>
                           </div>
                     </div>
                 </div>
