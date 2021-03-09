@@ -25,7 +25,7 @@ layout: default
     <div class="nsw-row nsw-m-bottom-sm">
 
         <div class="nsw-col nsw-col-md-8 nsw-offset-md-2">
-            <a href="https://jamesfehon-nsw.github.io/NSW-research-prototype/activities/questions/embed.html"><img src="Generating-research-questions.png" alt="" style="width:100%"></a>
+            <a href="https://jamesfehon-nsw.github.io/NSW-research-prototype/activities/questions/embed.html"><img src="Generating-research-questions.png" alt="" style="height:300px;width:100%"></a>
             <p>By Website Consolidation, NSW.Gov.au</p>
             <p style="text-align: center;margin-top:0">         <a href="https://jamesfehon-nsw.github.io/NSW-research-prototype/activities/questions/embed.html" class="nsw-button nsw-button--primary">
           Preview
@@ -37,7 +37,23 @@ layout: default
         </div>
 
         <div class="nsw-col nsw-col-md-6">
-            <p>Projects are full of unknowns when you start. By calling them out early and prioritising the ones with the biggest risk you your project, you can decide what you need to know first, and what can wait until later. </p>
+
+
+<p><strong>Projects are full of unknowns when you start. By calling them out early and prioritising the ones with the biggest risk you your project, you can decide what you need to know first, and what can wait until later.</strong> </p>
+<h3>Steps</h3>
+
+<ol>
+    <li>Brainstorm your unknowns <br>
+    Work out what you don’t know about your users.</li>
+    <li>Prioritise unknowns <br>
+    Identify which ones will have the biggest impact on your project.</li>
+    <li>Flip unknowns into questions <br>
+    Work out what to ask to get the information you need.</li>
+    <li>Add questions to discussion guide template <br>
+    Follow a simple structure to decide what to ask and when.</li>
+</ol>
+
+
             <h3>Stay on strategy: </h3>
             <p>
                 When you turn unknowns about your customers into things you know for certain, you’re improving your chances of building the right solution to your users problem.
@@ -58,7 +74,7 @@ layout: default
                         </li>
                         <li>✔ Examples
                         </li>
-                        <li>✔ Walk through video
+                        <li>✔ Activity walk through video
                         </li>
                     </ul>
                     <p>Use this:</p>
