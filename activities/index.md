@@ -25,6 +25,7 @@ layout: default
     <div class="nsw-row nsw-m-bottom-sm">
         <div class="nsw-col nsw-col-md-3">
             <aside class="nsw-col fix-sidebar-first search-grid__filters">
+                <h2 style="margin-top:1rem;">Search activities:</h2>
                 <p><small>Showing <span class="rows-length">11</span> of 11 activities</small></p>
                 <form class="views-exposed-form search-filters nsw-container" novalidate="novalidate" data-drupal-selector="views-exposed-form-consultations-listing" action="/consultations" method="get" id="views-exposed-form-consultations-listing" accept-charset="UTF-8" _lpchecked="1">
 
@@ -33,7 +34,7 @@ layout: default
 
                     </div>
                     <div>
-                        <h2 style="margin-top:1rem;">All activities</h2>
+                        <h2 style="margin-top:1rem;">Filter by:</h2>
                         <ul>
                             <li><a href="#">By Phase</a></li>
                             <li><a href="#">Most popular</a></li>
