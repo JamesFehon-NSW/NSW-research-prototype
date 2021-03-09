@@ -27,16 +27,15 @@ layout: default
     </div>
     <div class="nsw-row nsw-m-bottom-sm">
 
-        <div class="nsw-col nsw-col-md-6 nsw-offset-md-3">
-            <a href="https://jamesfehon-nsw.github.io/NSW-research-prototype/activities/questions/embed.html"><img src="Generating-research-questions.png" alt="" style="width:100%"></a>
-            <p>By Website Consolidation, NSW.Gov.au</p>
-            <p style="text-align: center;margin:0 0 1rem 0">         <a href="https://jamesfehon-nsw.github.io/NSW-research-prototype/activities/questions/embed.html" class="nsw-button nsw-button--primary">
-          Preview
-        </a>         <a href="https://miro.com/app/board/o9J_lRUZ_VE=/" class="nsw-button nsw-button--primary">
-          Use
-        </a>         <a href="#" class="nsw-button nsw-button--primary">
-          Share
-        </a></p>
+        <div class="nsw-col nsw-col-md-8 nsw-offset-md-2">
+            <div class="board-preview-iframe" style="height:250px;">
+            <iframe style="position: relative;width: 100%;height: 100%;" src="https://miro.com/app/embed/o9J_lRUZ_VE=/?autoplay=yep" frameBorder="0" scrolling="no" allowFullScreen></iframe>
+            </div>
+            <p style="text-align: center;margin-top:0">         <a href="https://miro.com/app/board/o9J_lRUZ_VE=/" class="nsw-button nsw-button--primary">
+            Use template
+            </a>         <a href="#" class="nsw-button nsw-button--primary">
+            Share
+            </a></p>
         </div>
 
         <div class="nsw-col nsw-col-md-6">
