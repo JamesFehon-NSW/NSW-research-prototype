@@ -28,7 +28,7 @@ layout: default
     <div class="nsw-row nsw-m-bottom-sm">
 
         <div class="nsw-col nsw-col-md-8 nsw-offset-md-2">
-            <div class="board-preview-iframe" style="height:250px;">
+            <div class="board-preview-iframe" style="height:288px;">
             <iframe style="position: relative;width: 100%;height: 100%;" src="https://miro.com/app/embed/o9J_lRUZ_VE=/?autoplay=yep" frameBorder="0" scrolling="no" allowFullScreen></iframe>
             </div>
             <p style="text-align: center;margin-top:0">         <a href="https://miro.com/app/board/o9J_lRUZ_VE=/" class="nsw-button nsw-button--primary">
