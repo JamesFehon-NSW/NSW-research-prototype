@@ -23,6 +23,11 @@ layout: default
 <div class="board-preview-iframe" style="height:650px;">
 <iframe style="position: relative;width: 100%;height: 100%;" src="https://miro.com/app/embed/o9J_lRUZ_VE=/?autoplay=yep" frameBorder="0" scrolling="no" allowFullScreen></iframe>
 </div>
+<p style="text-align: center;margin-top:0">         <a href="https://miro.com/app/board/o9J_lRUZ_VE=/" class="nsw-button nsw-button--primary">
+Use template
+</a>         <a href="#" class="nsw-button nsw-button--primary">
+Share
+</a></p>
 
         </div>
     </div>
