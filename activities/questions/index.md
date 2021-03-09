@@ -62,15 +62,17 @@ layout: default
                 </div>
             </div>
 
-
-
-
-
-
-
-
-
-            <p>[Video walkthrough]</p>
+        </div>
+        <div class="nsw-col">
+            <div style="margin: 20px auto;max-width: 700px;"><div class="video-wrap">
+<a href="#">
+<div class="play-btn">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 311.69 311.69"><path d="M155.84,0A155.85,155.85,0,1,0,311.69,155.84,155.84,155.84,0,0,0,155.84,0Zm0,296.42A140.58,140.58,0,1,1,296.42,155.84,140.58,140.58,0,0,1,155.84,296.42Z"></path><polygon points="218.79 155.84 119.22 94.34 119.22 217.34 218.79 155.84"></polygon></svg>
+</div>
+</a>
+<img class="placeholder" src="https://live.staticflickr.com/65535/46824082875_5db1ce0f60.jpg" alt="landscape">
+</div></div>
+<p>[Video walkthrough]</p>
         </div>
         <div class="nsw-col nsw-col-md-3" style="background: whitesmoke;">
             <h2>Helpful activities to do before</h2>
