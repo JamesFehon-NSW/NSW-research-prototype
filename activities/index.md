@@ -23,7 +23,7 @@ layout: default
         </div>
     </div>
     <div class="nsw-row nsw-m-bottom-sm">
-        <div class="nsw-col nsw-col-md-3">
+        <div class="nsw-col nsw-col-md-4">
             <aside class="nsw-col fix-sidebar-first search-grid__filters">
                 <h2 style="margin-top:1rem;">Search activities:</h2>
                 <p><small>Showing <span class="rows-length">11</span> of 11 activities</small></p>
@@ -54,7 +54,7 @@ layout: default
 
             </aside>
         </div>
-        <div class="nsw-col nsw-col-md-9">
+        <div class="nsw-col nsw-col-md-8">
             <div class="nsw-grid">
                 <div class="nsw-col">
                     <h2>Activities</h2>
