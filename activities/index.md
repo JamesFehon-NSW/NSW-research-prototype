@@ -78,9 +78,13 @@ layout: default
                     <div class="nsw-card nsw-card--content">
                           <div class="nsw-card__content">
                               <h2 class="nsw-card__title">
-                                <a href="#" class="nsw-card__link">Boating, fishing and outdoors</a>
+                                <a href="#" class="nsw-card__link">
+                                    Boating, fishing and outdoors</a>
                               </h2>
-                              <p class="nsw-card__copy">All services relating to maritime and recreation in NSW</p>
+                              <p class="nsw-card__copy">
+                                  All services relating to maritime and recreation in NSW</p>
+                              <p class="nsw-card__copy">By
+                                  Customer Experience Unit Partnerships team</p>
                               <svg class="nsw-icon nsw-card__icon" focusable="false" aria-hidden="true">
                                   <use xlink:href="#arrow"></use>
                               </svg>
@@ -92,9 +96,157 @@ layout: default
                     <div class="nsw-card nsw-card--content">
                           <div class="nsw-card__content">
                               <h2 class="nsw-card__title">
-                                <a href="#" class="nsw-card__link">Boating, fishing and outdoors</a>
+                                <a href="#" class="nsw-card__link">
+                                    Boating, fishing and outdoors</a>
                               </h2>
-                              <p class="nsw-card__copy">All services relating to maritime and recreation in NSW</p>
+                              <p class="nsw-card__copy">
+                                  All services relating to maritime and recreation in NSW</p>
+                              <p class="nsw-card__copy">By
+                                  Customer Experience Unit Partnerships team</p>
+                              <svg class="nsw-icon nsw-card__icon" focusable="false" aria-hidden="true">
+                                  <use xlink:href="#arrow"></use>
+                              </svg>
+                          </div>
+                    </div>
+                </div>
+
+                <div class="nsw-col nsw-col-md-4">
+                    <div class="nsw-card nsw-card--content">
+                          <div class="nsw-card__content">
+                              <h2 class="nsw-card__title">
+                                <a href="#" class="nsw-card__link">
+                                    Boating, fishing and outdoors</a>
+                              </h2>
+                              <p class="nsw-card__copy">
+                                  All services relating to maritime and recreation in NSW</p>
+                              <p class="nsw-card__copy">By
+                                  Customer Experience Unit Partnerships team</p>
+                              <svg class="nsw-icon nsw-card__icon" focusable="false" aria-hidden="true">
+                                  <use xlink:href="#arrow"></use>
+                              </svg>
+                          </div>
+                    </div>
+                </div>
+
+                <div class="nsw-col nsw-col-md-4">
+                    <div class="nsw-card nsw-card--content">
+                          <div class="nsw-card__content">
+                              <h2 class="nsw-card__title">
+                                <a href="#" class="nsw-card__link">
+                                    Boating, fishing and outdoors</a>
+                              </h2>
+                              <p class="nsw-card__copy">
+                                  All services relating to maritime and recreation in NSW</p>
+                              <p class="nsw-card__copy">By
+                                  Customer Experience Unit Partnerships team</p>
+                              <svg class="nsw-icon nsw-card__icon" focusable="false" aria-hidden="true">
+                                  <use xlink:href="#arrow"></use>
+                              </svg>
+                          </div>
+                    </div>
+                </div>
+
+                <div class="nsw-col nsw-col-md-4">
+                    <div class="nsw-card nsw-card--content">
+                          <div class="nsw-card__content">
+                              <h2 class="nsw-card__title">
+                                <a href="#" class="nsw-card__link">
+                                    Boating, fishing and outdoors</a>
+                              </h2>
+                              <p class="nsw-card__copy">
+                                  All services relating to maritime and recreation in NSW</p>
+                              <p class="nsw-card__copy">By
+                                  Customer Experience Unit Partnerships team</p>
+                              <svg class="nsw-icon nsw-card__icon" focusable="false" aria-hidden="true">
+                                  <use xlink:href="#arrow"></use>
+                              </svg>
+                          </div>
+                    </div>
+                </div>
+
+                <div class="nsw-col nsw-col-md-4">
+                    <div class="nsw-card nsw-card--content">
+                          <div class="nsw-card__content">
+                              <h2 class="nsw-card__title">
+                                <a href="#" class="nsw-card__link">
+                                    Boating, fishing and outdoors</a>
+                              </h2>
+                              <p class="nsw-card__copy">
+                                  All services relating to maritime and recreation in NSW</p>
+                              <p class="nsw-card__copy">By
+                                  Customer Experience Unit Partnerships team</p>
+                              <svg class="nsw-icon nsw-card__icon" focusable="false" aria-hidden="true">
+                                  <use xlink:href="#arrow"></use>
+                              </svg>
+                          </div>
+                    </div>
+                </div>
+
+                <div class="nsw-col nsw-col-md-4">
+                    <div class="nsw-card nsw-card--content">
+                          <div class="nsw-card__content">
+                              <h2 class="nsw-card__title">
+                                <a href="#" class="nsw-card__link">
+                                    Boating, fishing and outdoors</a>
+                              </h2>
+                              <p class="nsw-card__copy">
+                                  All services relating to maritime and recreation in NSW</p>
+                              <p class="nsw-card__copy">By
+                                  Customer Experience Unit Partnerships team</p>
+                              <svg class="nsw-icon nsw-card__icon" focusable="false" aria-hidden="true">
+                                  <use xlink:href="#arrow"></use>
+                              </svg>
+                          </div>
+                    </div>
+                </div>
+
+                <div class="nsw-col nsw-col-md-4">
+                    <div class="nsw-card nsw-card--content">
+                          <div class="nsw-card__content">
+                              <h2 class="nsw-card__title">
+                                <a href="#" class="nsw-card__link">
+                                    Boating, fishing and outdoors</a>
+                              </h2>
+                              <p class="nsw-card__copy">
+                                  All services relating to maritime and recreation in NSW</p>
+                              <p class="nsw-card__copy">By
+                                  Customer Experience Unit Partnerships team</p>
+                              <svg class="nsw-icon nsw-card__icon" focusable="false" aria-hidden="true">
+                                  <use xlink:href="#arrow"></use>
+                              </svg>
+                          </div>
+                    </div>
+                </div>
+
+                <div class="nsw-col nsw-col-md-4">
+                    <div class="nsw-card nsw-card--content">
+                          <div class="nsw-card__content">
+                              <h2 class="nsw-card__title">
+                                <a href="#" class="nsw-card__link">
+                                    Boating, fishing and outdoors</a>
+                              </h2>
+                              <p class="nsw-card__copy">
+                                  All services relating to maritime and recreation in NSW</p>
+                              <p class="nsw-card__copy">By
+                                  Customer Experience Unit Partnerships team</p>
+                              <svg class="nsw-icon nsw-card__icon" focusable="false" aria-hidden="true">
+                                  <use xlink:href="#arrow"></use>
+                              </svg>
+                          </div>
+                    </div>
+                </div>
+
+                <div class="nsw-col nsw-col-md-4">
+                    <div class="nsw-card nsw-card--content">
+                          <div class="nsw-card__content">
+                              <h2 class="nsw-card__title">
+                                <a href="#" class="nsw-card__link">
+                                    Boating, fishing and outdoors</a>
+                              </h2>
+                              <p class="nsw-card__copy">
+                                  All services relating to maritime and recreation in NSW</p>
+                              <p class="nsw-card__copy">By
+                                  Customer Experience Unit Partnerships team</p>
                               <svg class="nsw-icon nsw-card__icon" focusable="false" aria-hidden="true">
                                   <use xlink:href="#arrow"></use>
                               </svg>
