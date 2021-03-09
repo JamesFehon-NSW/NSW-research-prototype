@@ -33,25 +33,21 @@ layout: default
                         <input placeholder="I'm looking for" class="nsw-form-input--search form-text nsw-form-input" data-drupal-selector="edit-keys" type="text" id="edit-keys" name="keys" value="" size="30" maxlength="128">
 
                     </div>
-                    <div>
-                        <h2 style="margin-top:1rem;">Filter by:</h2>
-                        <ul>
-                            <li><a href="#">By Phase</a></li>
-                            <li><a href="#">Most popular</a></li>
-                            <li><a href="#">Facilitation experience</a></li>
-                            <li><a href="#">Activity time</a></li>
-                            <li><a href="#">Outcome</a></li>
-                        </ul>
+                </form>
 
-                    </div>
+                <h2 style="margin-top:1rem;">Filter by:</h2>
+                <ul>
+                    <li><a href="#">By Phase</a></li>
+                    <li><a href="#">Most popular</a></li>
+                    <li><a href="#">Facilitation experience</a></li>
+                    <li><a href="#">Activity time</a></li>
+                    <li><a href="#">Outcome</a></li>
+                </ul>
+
 
 
                     <!-- <div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form__wrapper" id="edit-actions"><input data-drupal-selector="edit-submit-consultations" type="submit" id="edit-submit-consultations" value="Apply" class="button js-form-submit form-submit nsw-button nsw-button--primary">
                     </div> -->
-
-
-                </form>
-
             </aside>
         </div>
         <div class="nsw-col nsw-col-md-8">
