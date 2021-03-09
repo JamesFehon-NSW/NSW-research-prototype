@@ -72,11 +72,11 @@ layout: default
 
             <p>[Video walkthrough]</p>
         </div>
-        <div class="nsw-col nsw-col-md-4">
+        <div class="nsw-col nsw-col-md-3" style="background: whitesmoke;">
             <h2>Helpful activities to do before</h2>
             <p><a href="#">Project kick-off canvas</a></p>
         </div>
-        <div class="nsw-col nsw-col-md-4 nsw-col-offset-4">
+        <div class="nsw-col nsw-col-md-3 nsw-offset-md-6" style="background: whitesmoke;">
             <h2>Helpful activities to do next</h2>
             <p><a href="#">Recruitment Brainstorming</a></p>
         </div>
