@@ -17,7 +17,7 @@ layout: default
 <div class="nsw-grid">
     <div class="nsw-row nsw-m-bottom-sm">
         <div class="nsw-col">
-            <h1>Generating Research Questions</h1>
+            <h1>Generating research questions</h1>
             <p class="nsw-intro">Ready to learn from your customers? Generate high-value questions based on the most critical aspects of your project.</p>
 
         </div>
