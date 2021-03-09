@@ -70,7 +70,7 @@ layout: default
 
         </div>
         <div class="nsw-col">
-            <h3>Video walkthrough</h3>
+            <h3 style="text-align:center;">Video walkthrough</h3>
             <div style="margin: 20px auto;max-width: 700px;"><div class="video-wrap">
 <a href="#">
 <div class="play-btn">
