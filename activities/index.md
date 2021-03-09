@@ -125,7 +125,7 @@ layout: default
 
                   <picture>
 
-                        <img class="card-full__image" src="https://live.staticflickr.com/65535/46824082875_5db1ce0f60.jpg"  style="width:362px" alt="Group of people working at office desk" typeof="foaf:Image">
+                        <img class="card-full__image" src="https://live.staticflickr.com/65535/46824082875_5db1ce0f60.jpg"  style="width:100%" alt="Group of people working at office desk" typeof="foaf:Image">
                   </picture>
 
                     </div>
@@ -161,7 +161,7 @@ layout: default
                     <div class="views-field views-field-card-image">          <div class="field-content">
 
                   <picture>
-                  <img class="card-full__image" src="https://live.staticflickr.com/65535/49280156318_bb00bc9263.jpg" style="width:362px" alt="Woman typing on laptop" typeof="foaf:Image">
+                  <img class="card-full__image" src="https://live.staticflickr.com/65535/49280156318_bb00bc9263.jpg" style="width:100%" alt="Woman typing on laptop" typeof="foaf:Image">
 
 
                   </picture>
@@ -199,7 +199,7 @@ layout: default
                     <div class="views-field views-field-card-image">          <div class="field-content">
 
                   <picture>
-                  <img class="card-full__image" src="https://live.staticflickr.com/65535/46824080955_7b8285f034.jpg" style="width:362px" alt="Woman typing on laptop" typeof="foaf:Image">
+                  <img class="card-full__image" src="https://live.staticflickr.com/65535/46824080955_7b8285f034.jpg" style="width:100%" alt="Woman typing on laptop" typeof="foaf:Image">
 
                   </picture>
 
@@ -237,7 +237,7 @@ layout: default
 
                     <picture>
 
-                          <img class="card-full__image" src="https://live.staticflickr.com/65535/46824082655_7542e1dae1.jpg"  style="width:362px" alt="Group of people working at office desk" typeof="foaf:Image">
+                          <img class="card-full__image" src="https://live.staticflickr.com/65535/46824082655_7542e1dae1.jpg"  style="width:100%" alt="Group of people working at office desk" typeof="foaf:Image">
                     </picture>
 
                     </div>
