@@ -272,10 +272,10 @@ layout: default
                             </a>
                         </h2>
                         <p class="nsw-card__copy">
-                            All services relating to maritime and recreation in NSW
+                            Build confidence in a new feature’s value and polish up the spec.
                         </p>
                         <p class="nsw-card__copy">By
-                            Customer Experience Unit Partnerships team
+                            Service NSW Product team
                         </p>
                         <svg class="nsw-icon nsw-card__icon" focusable="false" aria-hidden="true">
                             <use xlink:href="#arrow"></use>
@@ -289,14 +289,14 @@ layout: default
                     <div class="nsw-card__content">
                         <h2 class="nsw-card__title">
                             <a href="#" class="nsw-card__link">
-                                Boating, fishing and outdoors
+                                Pitch your work to influence
                             </a>
                         </h2>
                         <p class="nsw-card__copy">
-                            All services relating to maritime and recreation in NSW
+                            Create a simple explanation of your work and the value it delivers.
                         </p>
                         <p class="nsw-card__copy">By
-                            Customer Experience Unit Partnerships team
+                            Future Transport Digital Accelerator
                         </p>
                         <svg class="nsw-icon nsw-card__icon" focusable="false" aria-hidden="true">
                             <use xlink:href="#arrow"></use>
