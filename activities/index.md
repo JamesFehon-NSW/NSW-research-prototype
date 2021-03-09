@@ -63,7 +63,7 @@ layout: default
                     <div class="nsw-card nsw-card--content">
                           <div class="nsw-card__content">
                               <h2 class="nsw-card__title">
-                                <a href="#" class="nsw-card__link">Boating, fishing and outdoors</a>
+                                <a href="#" class="nsw-card__link">Plan your project kick-off</a>
                               </h2>
                               <p class="nsw-card__copy">All services relating to maritime and recreation in NSW</p>
                                 <svg class="nsw-icon nsw-card__icon" focusable="false" aria-hidden="true">
@@ -127,7 +127,7 @@ layout: default
 
                                     <div class="views-field views-field-title">
                                         <span class="field-content">
-                                            <a href="#" hreflang="en">Plan your project kick-off</a></span>
+                                            <a href="#" hreflang="en"></a></span>
                                     </div>
                                     <div class="views-field views-field-field-deck">
                                         <div class="field-content">
