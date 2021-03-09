@@ -163,14 +163,14 @@ layout: default
                     <div class="nsw-card__content">
                         <h2 class="nsw-card__title">
                             <a href="#" class="nsw-card__link">
-                                Boating, fishing and outdoors
+                                Build team rituals
                             </a>
                         </h2>
                         <p class="nsw-card__copy">
-                            All services relating to maritime and recreation in NSW
+                            Keep the team informed, connected, and calibrated through regular ritual.
                         </p>
                         <p class="nsw-card__copy">By
-                            Customer Experience Unit Partnerships team
+                            Government Technology Platforms team
                         </p>
                         <svg class="nsw-icon nsw-card__icon" focusable="false" aria-hidden="true">
                             <use xlink:href="#arrow"></use>
@@ -184,14 +184,14 @@ layout: default
                     <div class="nsw-card__content">
                         <h2 class="nsw-card__title">
                             <a href="#" class="nsw-card__link">
-                                Boating, fishing and outdoors
+                                User research kick-off
                             </a>
                         </h2>
                         <p class="nsw-card__copy">
-                            All services relating to maritime and recreation in NSW
+                            Lay the foundations for meaningful user research so you know you’re solving the right problem.
                         </p>
                         <p class="nsw-card__copy">By
-                            Customer Experience Unit Partnerships team
+                            nsw.gov.au UX team
                         </p>
                         <svg class="nsw-icon nsw-card__icon" focusable="false" aria-hidden="true">
                             <use xlink:href="#arrow"></use>
@@ -205,14 +205,14 @@ layout: default
                     <div class="nsw-card__content">
                         <h2 class="nsw-card__title">
                             <a href="#" class="nsw-card__link">
-                                Boating, fishing and outdoors
+                                Generate research questions
                             </a>
                         </h2>
                         <p class="nsw-card__copy">
-                            All services relating to maritime and recreation in NSW
+                            Make better decisions about your product or service. Ask the right questions to get to the heart of the problem you’re trying to solve.
                         </p>
                         <p class="nsw-card__copy">By
-                            Customer Experience Unit Partnerships team
+                            By Website Consolidation, NSW.Gov.au
                         </p>
                         <svg class="nsw-icon nsw-card__icon" focusable="false" aria-hidden="true">
                             <use xlink:href="#arrow"></use>
@@ -226,14 +226,14 @@ layout: default
                     <div class="nsw-card__content">
                         <h2 class="nsw-card__title">
                             <a href="#" class="nsw-card__link">
-                                Boating, fishing and outdoors
+                                Run a customer interview
                             </a>
                         </h2>
                         <p class="nsw-card__copy">
-                            All services relating to maritime and recreation in NSW
+                            Interview and observe your customers to learn how they use your product or service, and why they do what they do.
                         </p>
                         <p class="nsw-card__copy">By
-                            Customer Experience Unit Partnerships team
+                            Service NSW Product team
                         </p>
                         <svg class="nsw-icon nsw-card__icon" focusable="false" aria-hidden="true">
                             <use xlink:href="#arrow"></use>
@@ -247,14 +247,14 @@ layout: default
                     <div class="nsw-card__content">
                         <h2 class="nsw-card__title">
                             <a href="#" class="nsw-card__link">
-                                Boating, fishing and outdoors
+                                Turn findings into actionable insights
                             </a>
                         </h2>
                         <p class="nsw-card__copy">
-                            All services relating to maritime and recreation in NSW
+                            Move your research findings to influence and drive action.
                         </p>
                         <p class="nsw-card__copy">By
-                            Customer Experience Unit Partnerships team
+                            NSW Design Standards team
                         </p>
                         <svg class="nsw-icon nsw-card__icon" focusable="false" aria-hidden="true">
                             <use xlink:href="#arrow"></use>
@@ -268,7 +268,7 @@ layout: default
                     <div class="nsw-card__content">
                         <h2 class="nsw-card__title">
                             <a href="#" class="nsw-card__link">
-                                Boating, fishing and outdoors
+                                Make a feature improvement
                             </a>
                         </h2>
                         <p class="nsw-card__copy">
