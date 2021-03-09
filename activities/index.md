@@ -19,9 +19,9 @@ layout: default
 </nav>
 <div class="nsw-grid">
     <div class="nsw-row nsw-m-bottom-sm">
-        <div class="nsw-col">
+        <div class="nsw-col nsw-col-md-8">
             <h1>Activity hub</h1>
-            <p class="nsw-intro">Level up your project and deliver outcomes that make an impact. The activities are contributed by experts, tested for government use, and integrate into your workflow.
+            <p class="nsw-intro">Level up your project and deliver outcomes that make an impact. </p><p class="nsw-intro">The activities are contributed by experts, tested for government use, and integrate into your workflow.
             </p>
 
         </div>
