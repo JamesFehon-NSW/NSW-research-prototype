@@ -56,6 +56,9 @@ layout: default
         </div>
         <div class="nsw-col nsw-col-md-9">
             <div class="nsw-grid">
+                <div class="nsw-col">
+                    <h2>Activities</h2>
+                </div>
                 <div class="nsw-col nsw-col-md-4">
                     <div class="nsw-card nsw-card--content">
                           <div class="nsw-card__content">
@@ -106,7 +109,7 @@ layout: default
 
             <div class="nsw-row">
                 <div class="nsw-col">
-                    <h2>Activities</h2>
+
 
                     <div class="article-listing__wrapper">
                         <div class="article-listing__cards">
