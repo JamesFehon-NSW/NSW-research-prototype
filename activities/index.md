@@ -47,7 +47,7 @@ layout: default
 
                 <h2 style="margin-top:1rem;">Filter by:</h2>
                 <ul>
-                    <li><a href="#">By Phase
+                    <li><a href="#">By phase
                     </a></li>
                     <li><a href="#">Most popular
                     </a></li>
