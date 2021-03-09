@@ -27,7 +27,13 @@ layout: default
         <div class="nsw-col nsw-col-md-8 nsw-offset-md-2">
             <img src="Generating-research-questions.png" alt="" style="width:100%">
             <p>By Website Consolidation, NSW.Gov.au</p>
-            <p> [Preview] [Use] [Share] </p>
+            <p>         <a href="#" class="nsw-button nsw-button--primary">
+          Preview
+        </a>         <a href="#" class="nsw-button nsw-button--primary">
+          Use
+        </a>         <a href="#" class="nsw-button nsw-button--primary">
+          Share
+        </a></p>
         </div>
 
         <div class="nsw-col nsw-col-md-6">
