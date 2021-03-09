@@ -21,12 +21,12 @@ layout: default
 
                     </div>
                     <div>
-                        <h2>All activities</h2>
-                        <<p>By Phase</p>
-                        <<p>Most popular</p>
-                        <<p>Facilitation experience</p>
-                        <<p>Activity time</p>
-                        <<p>Outcome</p>
+                        <h2 style="margin-top:1rem;">All activities</h2>
+                        <ul><li>By Phase</li>
+                        <li>Most popular</li>
+                        <li>Facilitation experience</li>
+                        <li>Activity time</li>
+                        <li>Outcome</li></ul>
 
                     </div>
 
