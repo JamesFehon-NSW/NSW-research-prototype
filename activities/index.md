@@ -74,7 +74,7 @@ layout: default
                         </h2>
                         <p class="nsw-card__copy">Build consensus on objectives, timing, scope, and decision making.
                         </p>
-                        <p class="nsw-card__copy">By Customer Experience Unit Partnerships team
+                        <p class="nsw-card__tag" style="order:4">By Customer Experience Unit Partnerships team
                         </p>
                         <svg class="nsw-icon nsw-card__icon" focusable="false" aria-hidden="true">
                             <use xlink:href="#arrow"></use>
@@ -96,7 +96,7 @@ layout: default
                         <p class="nsw-card__copy">
                             Agree on prioritisation and what opportunity will have the biggest customer impact for effort.
                         </p>
-                        <p class="nsw-card__copy">By
+                        <p class="nsw-card__tag" style="order:4">By 
                             Transport for NSW Digital Insights team
                         </p>
                         <svg class="nsw-icon nsw-card__icon" focusable="false" aria-hidden="true">
@@ -120,7 +120,7 @@ layout: default
                         <p class="nsw-card__copy">
                             Anticipate risks so that you can solve for them while there’s still time.
                         </p>
-                        <p class="nsw-card__copy">By
+                        <p class="nsw-card__tag" style="order:4">By 
                             DRF Assurance
                         </p>
                         <svg class="nsw-icon nsw-card__icon" focusable="false" aria-hidden="true">
@@ -147,7 +147,7 @@ layout: default
                             Build a comms plan for special projects or business as usual.
 
                         </p>
-                        <p class="nsw-card__copy">By
+                        <p class="nsw-card__tag" style="order:4">By 
                             nsw.gov.au web consolidation project team
 
                         </p>
@@ -169,7 +169,7 @@ layout: default
                         <p class="nsw-card__copy">
                             Keep the team informed, connected, and calibrated through regular ritual.
                         </p>
-                        <p class="nsw-card__copy">By
+                        <p class="nsw-card__tag" style="order:4">By 
                             Government Technology Platforms team
                         </p>
                         <svg class="nsw-icon nsw-card__icon" focusable="false" aria-hidden="true">
@@ -190,7 +190,7 @@ layout: default
                         <p class="nsw-card__copy">
                             Lay the foundations for meaningful user research so you know you’re solving the right problem.
                         </p>
-                        <p class="nsw-card__copy">By
+                        <p class="nsw-card__tag" style="order:4">By 
                             nsw.gov.au UX team
                         </p>
                         <svg class="nsw-icon nsw-card__icon" focusable="false" aria-hidden="true">
@@ -211,7 +211,7 @@ layout: default
                         <p class="nsw-card__copy">
                             Make better decisions about your product or service. Ask the right questions to get to the heart of the problem you’re trying to solve.
                         </p>
-                        <p class="nsw-card__copy">By
+                        <p class="nsw-card__tag" style="order:4">By 
                             By Website Consolidation, NSW.Gov.au
                         </p>
                         <svg class="nsw-icon nsw-card__icon" focusable="false" aria-hidden="true">
@@ -232,7 +232,7 @@ layout: default
                         <p class="nsw-card__copy">
                             Interview and observe your customers to learn how they use your product or service, and why they do what they do.
                         </p>
-                        <p class="nsw-card__copy">By
+                        <p class="nsw-card__tag" style="order:4">By 
                             Service NSW Product team
                         </p>
                         <svg class="nsw-icon nsw-card__icon" focusable="false" aria-hidden="true">
@@ -253,7 +253,7 @@ layout: default
                         <p class="nsw-card__copy">
                             Move your research findings to influence and drive action.
                         </p>
-                        <p class="nsw-card__copy">By
+                        <p class="nsw-card__tag" style="order:4">By 
                             NSW Design Standards team
                         </p>
                         <svg class="nsw-icon nsw-card__icon" focusable="false" aria-hidden="true">
@@ -274,7 +274,7 @@ layout: default
                         <p class="nsw-card__copy">
                             Build confidence in a new feature’s value and polish up the spec.
                         </p>
-                        <p class="nsw-card__copy">By
+                        <p class="nsw-card__tag" style="order:4">By 
                             Service NSW Product team
                         </p>
                         <svg class="nsw-icon nsw-card__icon" focusable="false" aria-hidden="true">
@@ -295,7 +295,7 @@ layout: default
                         <p class="nsw-card__copy">
                             Create a simple explanation of your work and the value it delivers.
                         </p>
-                        <p class="nsw-card__copy">By
+                        <p class="nsw-card__tag" style="order:4">By 
                             Future Transport Digital Accelerator
                         </p>
                         <svg class="nsw-icon nsw-card__icon" focusable="false" aria-hidden="true">
