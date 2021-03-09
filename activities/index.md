@@ -26,8 +26,8 @@ layout: default
         <div class="nsw-col nsw-col-md-4">
             <aside class="nsw-col fix-sidebar-first search-grid__filters">
                 <h2 style="margin-top:1rem;">Search activities:</h2>
-                <p><small>Showing <span class="rows-length">11</span> of 11 activities</small></p>
-                <form class="views-exposed-form search-filters nsw-container" novalidate="novalidate" data-drupal-selector="views-exposed-form-consultations-listing" action="/consultations" method="get" id="views-exposed-form-consultations-listing" accept-charset="UTF-8" _lpchecked="1">
+                <p>Showing <span class="rows-length">11</span> of 11 activities</p>
+                <form style="PADDING: 0;margin-top: .5rem;" class="views-exposed-form search-filters nsw-container" novalidate="novalidate" data-drupal-selector="views-exposed-form-consultations-listing" action="/consultations" method="get" id="views-exposed-form-consultations-listing" accept-charset="UTF-8" _lpchecked="1">
 
                     <div class="js-form-item form__item js-form-type-textfield form__item--textfield js-form-item-keys form__item--keys form__item--no-label">
                         <input placeholder="I'm looking for" class="nsw-form-input--search form-text nsw-form-input" data-drupal-selector="edit-keys" type="text" id="edit-keys" name="keys" value="" size="30" maxlength="128">
