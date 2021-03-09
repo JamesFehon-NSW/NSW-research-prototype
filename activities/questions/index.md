@@ -25,9 +25,9 @@ layout: default
     <div class="nsw-row nsw-m-bottom-sm">
 
         <div class="nsw-col nsw-col-md-8 nsw-offset-md-2">
-            <a href="https://miro.com/app/board/o9J_lRUZ_VE=/"><img src="Generating-research-questions.png" alt="" style="width:100%"></a>
+            <a href="https://jamesfehon-nsw.github.io/NSW-research-prototype/activities/questions/embed.html"><img src="Generating-research-questions.png" alt="" style="width:100%"></a>
             <p>By Website Consolidation, NSW.Gov.au</p>
-            <p style="text-align: center;margin-top:0">         <a href="https://miro.com/app/board/o9J_lRUZ_VE=/" class="nsw-button nsw-button--primary">
+            <p style="text-align: center;margin-top:0">         <a href="https://jamesfehon-nsw.github.io/NSW-research-prototype/activities/questions/embed.html" class="nsw-button nsw-button--primary">
           Preview
         </a>         <a href="https://miro.com/app/board/o9J_lRUZ_VE=/" class="nsw-button nsw-button--primary">
           Use
