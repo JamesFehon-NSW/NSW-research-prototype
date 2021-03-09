@@ -21,7 +21,7 @@ layout: default
             <p class="nsw-intro">Ready to learn from your customers? Generate high-value questions based on the most critical aspects of your project.</p>
             <p>By Website Consolidation, NSW.Gov.au</p>
 <div class="board-preview-iframe" style="height:650px;">
-<iframe style="position: relative;width: 100%;height: 100%;" src="https://miro.com/app/live-embed/o9J_lRUZ_VE=/?moveToViewport=-2087,-4878,15886,8199" frameBorder="0" scrolling="no" allowFullScreen></iframe>
+<iframe style="position: relative;width: 100%;height: 100%;" src="https://miro.com/app/embed/o9J_lRUZ_VE=/?autoplay=yep" frameBorder="0" scrolling="no" allowFullScreen></iframe>
 </div>
 
         </div>
