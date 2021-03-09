@@ -20,8 +20,15 @@ layout: default
 <div class="nsw-grid">
     <div class="nsw-row nsw-m-bottom-sm">
         <div class="nsw-col nsw-col-md-8">
-            <h1>Activity hub</h1>
-            <p class="nsw-intro">Level up your project and deliver outcomes that make an impact. </p><p class="nsw-intro">The activities are contributed by experts, tested for government use, and integrate into your workflow.
+            <h1>Resarch activity hub</h1>
+            <p class="nsw-intro">Find the right activity for your team. Create alignment, solve the right problems, and use customer-focussed techniques to deliver impact. </p><p class="nsw-intro">These activities are
+                <ul>
+                    <li>Contributed by experts.</li>
+                    <li>Tested for government use.</li>
+                    <li>Integrate into your workflow.</li>
+                    <li>Able to be facilitated by team member at any level.</li>
+                    <li>Accompanied by simple, easy reusable templates and examples.</li>
+                </ul>
             </p>
 
         </div>
@@ -49,8 +56,6 @@ layout: default
                     <li><a href="#">Facilitation experience
                     </a></li>
                     <li><a href="#">Activity time
-                    </a></li>
-                    <li><a href="#">Outcome
                     </a></li>
                 </ul>
 
