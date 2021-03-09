@@ -108,16 +108,16 @@ layout: default
 
                                     <div class="views-field views-field-title">
                                         <span class="field-content">
-                                            <a href="#" hreflang="en">Plan your project kick-off</a></span>
+                                            <a href="#" hreflang="en">Prioritise customer opportunities, as a team</a></span>
                                     </div>
                                     <div class="views-field views-field-field-deck">
                                         <div class="field-content">
-                                            <p>Build consensus on objectives, timing, scope, and decision making.</p>
+                                            <p>Agree on prioritisation and what opportunity will have the biggest customer impact for effort.</p>
 
                                         </div>
                                     </div>
                                     <div class="views-field views-field-field-article-category">
-                                        <div class="field-content">By Customer Experience Unit Partnerships team</div>
+                                        <div class="field-content">By Transport for NSW Digital Insights team</div>
                                         <p><a href="">Read more</a></p>
                                     </div>
                                 </div>
@@ -134,16 +134,16 @@ layout: default
 
                                     <div class="views-field views-field-title">
                                         <span class="field-content">
-                                            <a href="#" hreflang="en">Plan your project kick-off</a></span>
+                                            <a href="#" hreflang="en">Identify and manage risk</a></span>
                                     </div>
                                     <div class="views-field views-field-field-deck">
                                         <div class="field-content">
-                                            <p>Build consensus on objectives, timing, scope, and decision making.</p>
+                                            <p>Anticipate risks so that you can solve for them while there’s still time.</p>
 
                                         </div>
                                     </div>
                                     <div class="views-field views-field-field-article-category">
-                                        <div class="field-content">By Customer Experience Unit Partnerships team</div>
+                                        <div class="field-content">By DRF Assurance</div>
                                         <p><a href="">Read more</a></p>
                                     </div>
                                 </div>
@@ -160,16 +160,16 @@ layout: default
 
                                     <div class="views-field views-field-title">
                                         <span class="field-content">
-                                            <a href="#" hreflang="en">Plan your project kick-off</a></span>
+                                            <a href="#" hreflang="en">Communicate with stakeholders</a></span>
                                     </div>
                                     <div class="views-field views-field-field-deck">
                                         <div class="field-content">
-                                            <p>Build consensus on objectives, timing, scope, and decision making.</p>
+                                            <p>Build a comms plan for special projects or business as usual.</p>
 
                                         </div>
                                     </div>
                                     <div class="views-field views-field-field-article-category">
-                                        <div class="field-content">By Customer Experience Unit Partnerships team</div>
+                                        <div class="field-content">By nsw.gov.au web consolidation project team</div>
                                         <p><a href="">Read more</a></p>
                                     </div>
                                 </div>
