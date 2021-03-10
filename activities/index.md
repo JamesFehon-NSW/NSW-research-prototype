@@ -56,8 +56,8 @@ layout: default
                     </a></li>
                 </ul>
 
-                <h3 style="border-top: 1px solid #e4e4e7;padding-top: 1rem;">Contribute an activity</h3>
-                <p>Research activity hub shares the research activities which helps NSW Government teams build momentum on their projects. <br> <a href="#" class="nsw-button nsw-button--primary">Share an activity</a></p>
+                <h3 style="border-top: 1px solid #e4e4e7;padding-top: 1rem;">Submit an activity</h3>
+                <p>Research activity hub is where the best research activities from across NSW Government are appraised and shared for anyone to pick up and use. <br> <a href="#" class="nsw-button nsw-button--primary">Submit now</a></p>
 
                 <!-- <div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form__wrapper" id="edit-actions"><input data-drupal-selector="edit-submit-consultations" type="submit" id="edit-submit-consultations" value="Apply" class="button js-form-submit form-submit nsw-button nsw-button--primary">
             </div> -->
