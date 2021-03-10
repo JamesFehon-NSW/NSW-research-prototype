@@ -56,7 +56,7 @@ layout: default
 </ol>
 
 <p><strong>Output:</strong> A structured discussion guide for user research interviews </p>
-            <h3>Stay on strategy: </h3>
+            <h3>Stay on strategy</h3>
             <p>
                 When you turn unknowns about your customers into things you know for certain, you’re improving your chances of building the right solution to your users problem.
             </p>
