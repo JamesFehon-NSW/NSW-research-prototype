@@ -69,8 +69,7 @@ layout: default
                     </p>
                     <h4>What you'll get</h4>
                     <ul>
-                        <li>
-                            ✔ Instructions
+                        <li>✔ Instructions
                         </li>
                         <li>✔ Pro-tips
                         </li>
@@ -79,7 +78,7 @@ layout: default
                         <li>✔ Activity walk through video
                         </li>
                     </ul>
-                    <p>Use this:</p>
+                    <h4>Use this:</h4>
                     <p>Before the project starts to understand the scope of your research</p>
                     <p>During the project whenever you need to learn more from customer</p>
                     <p>After the project to evaluate how your solution</p>
@@ -90,13 +89,19 @@ layout: default
         <div class="nsw-col">
             <h3 style="text-align:center;">Video walkthrough</h3>
             <div style="margin: 20px auto;max-width: 700px;"><div class="video-wrap">
-<a href="#">
-<div class="play-btn">
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 311.69 311.69"><path d="M155.84,0A155.85,155.85,0,1,0,311.69,155.84,155.84,155.84,0,0,0,155.84,0Zm0,296.42A140.58,140.58,0,1,1,296.42,155.84,140.58,140.58,0,0,1,155.84,296.42Z"></path><polygon points="218.79 155.84 119.22 94.34 119.22 217.34 218.79 155.84"></polygon></svg>
-</div>
-</a>
-<img class="placeholder" src="https://live.staticflickr.com/65535/46824082875_5db1ce0f60.jpg" alt="landscape">
-</div></div>
+                <a href="#">
+                <div class="play-btn">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 311.69 311.69"><path d="M155.84,0A155.85,155.85,0,1,0,311.69,155.84,155.84,155.84,0,0,0,155.84,0Zm0,296.42A140.58,140.58,0,1,1,296.42,155.84,140.58,140.58,0,0,1,155.84,296.42Z"></path><polygon points="218.79 155.84 119.22 94.34 119.22 217.34 218.79 155.84"></polygon></svg>
+                </div>
+                </a>
+                <img class="placeholder" src="https://live.staticflickr.com/65535/46824082875_5db1ce0f60.jpg" alt="landscape">
+                </div></div>
+        </div>
+        <div class="nsw-col nsw-col-md-12">
+        	<h2 class="section-title">Tags</h2>
+    			<a href="#" class="nsw-tag">Discovery</a>
+    			<a href="#" class="nsw-tag">Planning</a>
+    			<a href="#" class="nsw-tag">Interviews</a>
         </div>
         <div class="nsw-col nsw-col-md-3" style="background: whitesmoke;">
             <h2>Helpful activities to do before</h2>
