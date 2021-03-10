@@ -25,7 +25,6 @@ layout: default
                 <ul>
                     <li>Contributed by experts.</li>
                     <li>Tested for government use.</li>
-                    <li>Integrate into your workflow.</li>
                     <li>Able to be facilitated by team member at any level.</li>
                     <li>Easy to use, with reusable templates and examples.</li>
                 </ul>
