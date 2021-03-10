@@ -12,7 +12,7 @@ layout: default
             </a>
         </li>
         <li class="nsw-breadcrumb__item">
-            <a href="#" class="nsw-breadcrumb__link nsw-breadcrumb--current" aria-current="page">Team activities
+            <a href="#" class="nsw-breadcrumb__link nsw-breadcrumb--current" aria-current="page">Research activities hub
             </a>
         </li>
     </ol>
