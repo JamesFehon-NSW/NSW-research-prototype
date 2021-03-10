@@ -155,7 +155,7 @@ layout: default
 
                         </p>
                         <p class="nsw-card__tag" style="order:4">By
-                            nsw.gov.au web consolidation project team
+                            nsw.gov.au website consolidation project team
 
                         </p>
                         <svg class="nsw-icon nsw-card__icon" focusable="false" aria-hidden="true">
@@ -219,7 +219,7 @@ layout: default
                             Make better decisions about your product or service. Ask the right questions to get to the heart of the problem you’re trying to solve.
                         </p>
                         <p class="nsw-card__tag" style="order:4">By
-                            Website Consolidation, NSW.Gov.au
+                            nsw.gov.au website consolidation project team
                         </p>
                         <svg class="nsw-icon nsw-card__icon" focusable="false" aria-hidden="true">
                             <use xlink:href="#arrow"></use>
