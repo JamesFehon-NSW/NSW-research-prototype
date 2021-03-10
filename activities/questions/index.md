@@ -102,13 +102,13 @@ layout: default
     			<a href="#" class="nsw-tag">Interviews</a>
         </div>
         <div class="nsw-col nsw-col-md-3" style="background: whitesmoke;">
-            <h2>Helpful activities to do before</h2>
+            <h3>Helpful activities to do before</h3>
             <ul>
                 <li><a href="#">Project kick-off canvas</a></li>
             </ul>
         </div>
         <div class="nsw-col nsw-col-md-3 nsw-offset-md-6" style="background: whitesmoke;">
-            <h2>Helpful activities to do next</h2>
+            <h3>Helpful activities to do next</h3>
             <ul>
                 <li><a href="#">Recruitment Brainstorming</a></li>
             </ul>
