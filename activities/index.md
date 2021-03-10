@@ -56,8 +56,9 @@ layout: default
                     </a></li>
                 </ul>
 
-
-
+                <h2 style="border-top: 1px solid #e4e4e7;padding-top: 9px;">Contribute an activity</h2>
+                <p>Share the research activities that help your team build moment on your projects.</p>
+                
                 <!-- <div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form__wrapper" id="edit-actions"><input data-drupal-selector="edit-submit-consultations" type="submit" id="edit-submit-consultations" value="Apply" class="button js-form-submit form-submit nsw-button nsw-button--primary">
             </div> -->
         </aside>
@@ -67,6 +68,8 @@ layout: default
             <div class="nsw-col">
                 <h2>Research activities</h2>
                 <p>Showing <span class="rows-length">11</span> of 11 activities
+                </p>
+                <p>Sorted by: <strong>Most recent</strong>
                 </p>
             </div>
             <div class="nsw-col nsw-col-md-6">
