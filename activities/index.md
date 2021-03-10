@@ -211,7 +211,7 @@ layout: default
                 <div class="nsw-card nsw-card--content">
                     <div class="nsw-card__content">
                         <h2 class="nsw-card__title">
-                            <a href="#" class="nsw-card__link">
+                            <a href="https://jamesfehon-nsw.github.io/NSW-research-prototype/activities/questions/" class="nsw-card__link">
                                 Generate research questions
                             </a>
                         </h2>
