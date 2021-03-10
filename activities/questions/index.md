@@ -41,7 +41,8 @@ layout: default
         <div class="nsw-col nsw-col-md-6">
 
 
-<p><strong>Projects are full of unknowns when you start. By calling them out early and prioritising the ones with the biggest risk you your project, you can decide what you need to know first, and what can wait until later.</strong> </p>
+<p><strong>Projects are full of unknowns when you start. </strong></p>
+<p><strong>By calling them out early and prioritising the ones with the biggest risk you your project, you can decide what you need to know first, and what can wait until later.</strong> </p>
 <h3>Steps</h3>
 
 <ol>
