@@ -10,7 +10,7 @@ layout: default
             <a href="#" class="nsw-breadcrumb__link " >Digital Service Toolkit</a>
         </li>
         <li class="nsw-breadcrumb__item">
-            <a href="../" class="nsw-breadcrumb__link " >Research activities hub</a>
+            <a href="../" class="nsw-breadcrumb__link " >Research activity hub</a>
         </li>
         <li class="nsw-breadcrumb__item">
             <a href="#" class="nsw-breadcrumb__link nsw-breadcrumb--current" aria-current="page">Generating research questions</a>
