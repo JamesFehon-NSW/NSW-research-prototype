@@ -55,7 +55,7 @@ layout: default
     Follow a simple structure to decide what to ask and when.</li>
 </ol>
 
-<p><strong>Output:</strong> A structured discussion guide for user research interviews </p>
+<h3>Output</h3> <p>A structured discussion guide for user research interviews </p>
             <h3>Stay on strategy</h3>
             <p>
                 When you turn unknowns about your customers into things you know for certain, you’re improving your chances of building the right solution to your users problem.
