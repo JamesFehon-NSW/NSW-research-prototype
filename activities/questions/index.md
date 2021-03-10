@@ -55,7 +55,7 @@ layout: default
     Follow a simple structure to decide what to ask and when.</li>
 </ol>
 
-
+<p><strong>Output:</strong> A structured discussion guide for user research interviews </p>
             <h3>Stay on strategy: </h3>
             <p>
                 When you turn unknowns about your customers into things you know for certain, you’re improving your chances of building the right solution to your users problem.
@@ -67,7 +67,7 @@ layout: default
                     <h4 class="nsw-callout__title">Who is this for</h4>
                     <p>This is for <strong>teams or individuals</strong> who want to understand a challenge from the perspective of customers.
                     </p>
-                    <h4>What you'll get</h4>
+                    <h4>Template includes</h4>
                     <ul>
                         <li>✔ Instructions
                         </li>
@@ -79,9 +79,9 @@ layout: default
                         </li>
                     </ul>
                     <h4>Use this:</h4>
-                    <p>Before the project starts to understand the scope of your research</p>
-                    <p>During the project whenever you need to learn more from customer</p>
-                    <p>After the project to evaluate how your solution</p>
+                    <p><strong>Before the project starts</strong> to understand the scope of your research</p>
+                    <p><strong>During the project</strong> whenever you need to learn more from customer</p>
+                    <p><strong>After the project</strong> to evaluate how your solution</p>
                 </div>
             </div>
 
