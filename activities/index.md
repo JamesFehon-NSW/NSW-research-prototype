@@ -27,7 +27,7 @@ layout: default
                     <li>Tested for government use.</li>
                     <li>Integrate into your workflow.</li>
                     <li>Able to be facilitated by team member at any level.</li>
-                    <li>Accompanied by simple, easy reusable templates and examples.</li>
+                    <li>Easy to use, with reusable templates and examples.</li>
                 </ul>
             </p>
 
@@ -294,7 +294,7 @@ layout: default
                     <div class="nsw-card__content">
                         <h2 class="nsw-card__title">
                             <a href="#" class="nsw-card__link">
-                                Pitch your work to influence
+                                Pitch your recommendations to influence
                             </a>
                         </h2>
                         <p class="nsw-card__copy">
