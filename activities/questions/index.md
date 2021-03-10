@@ -10,7 +10,7 @@ layout: default
             <a href="#" class="nsw-breadcrumb__link " >Digital Service Toolkit</a>
         </li>
         <li class="nsw-breadcrumb__item">
-            <a href="../" class="nsw-breadcrumb__link " >Team activities</a>
+            <a href="../" class="nsw-breadcrumb__link " >Research activities hub</a>
         </li>
         <li class="nsw-breadcrumb__item">
             <a href="#" class="nsw-breadcrumb__link nsw-breadcrumb--current" aria-current="page">Generating research questions</a>
@@ -57,10 +57,10 @@ layout: default
 </ol>
 
 <h3>Output</h3> <p>A structured discussion guide for user research interviews </p>
-            <h3>Stay on strategy</h3>
-            <p>
-                When you turn unknowns about your customers into things you know for certain, you’re improving your chances of building the right solution to your users problem.
-            </p>
+<h3>Strategic value</h3>
+        <p>
+            When you turn unknowns about your customers into things you know for certain, you’re improving your chances of building the right solution to your users problem.
+        </p>
         </div>
         <div class="nsw-col nsw-col-md-6">
             <div class="nsw-callout">
@@ -96,12 +96,12 @@ layout: default
                 <img class="placeholder" src="https://live.staticflickr.com/65535/46824082875_5db1ce0f60.jpg" alt="landscape">
                 </div></div>
         </div>
-        <div class="nsw-col nsw-col-md-12">
+        <!-- <div class="nsw-col nsw-col-md-12">
         	<h2 class="section-title">Tags</h2>
     			<a href="#" class="nsw-tag">Discovery</a>
     			<a href="#" class="nsw-tag">Planning</a>
     			<a href="#" class="nsw-tag">Interviews</a>
-        </div>
+        </div> -->
         <div class="nsw-col nsw-col-md-3" style="background: whitesmoke;">
             <h3>Helpful activities to do before</h3>
             <ul>
