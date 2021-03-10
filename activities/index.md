@@ -12,7 +12,7 @@ layout: default
             </a>
         </li>
         <li class="nsw-breadcrumb__item">
-            <a href="#" class="nsw-breadcrumb__link nsw-breadcrumb--current" aria-current="page">Research activities hub
+            <a href="#" class="nsw-breadcrumb__link nsw-breadcrumb--current" aria-current="page">Research activity hub
             </a>
         </li>
     </ol>
@@ -56,9 +56,10 @@ layout: default
                     </a></li>
                 </ul>
 
-                <h2 style="border-top: 1px solid #e4e4e7;padding-top: 9px;">Contribute an activity</h2>
-                <p>Share the research activities that help your team build moment on your projects.</p>
-                
+                <h3 style="border-top: 1px solid #e4e4e7;padding-top: 9px;">Contribute an activity</h3>
+                <p>Research activity hub shares the research activities which helps NSW Government teams build momentum on their projects.</p>
+                <p><a href="#">Share an activity that helps your team succeed.</a></p>
+
                 <!-- <div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form__wrapper" id="edit-actions"><input data-drupal-selector="edit-submit-consultations" type="submit" id="edit-submit-consultations" value="Apply" class="button js-form-submit form-submit nsw-button nsw-button--primary">
             </div> -->
         </aside>
