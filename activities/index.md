@@ -25,7 +25,7 @@ layout: default
                 <ul>
                     <li>Contributed by experts.</li>
                     <li>Tested for government use.</li>
-                    <li>Able to be facilitated by team member at any level.</li>
+                    <li>Designed to be facilitated by any team member.</li>
                     <li>Easy to use, with reusable templates and examples.</li>
                 </ul>
             </p>
@@ -51,8 +51,6 @@ layout: default
                     <li><a href="#">By phase
                     </a></li>
                     <li><a href="#">Most popular
-                    </a></li>
-                    <li><a href="#">Facilitation experience
                     </a></li>
                     <li><a href="#">Activity time
                     </a></li>
