@@ -75,8 +75,6 @@ layout: default
                         </li>
                         <li>✔ Examples
                         </li>
-                        <li>✔ Activity walk through video
-                        </li>
                     </ul>
                     <h4>Use this:</h4>
                     <p><strong>Before the project starts</strong> to understand the scope of your research</p>
